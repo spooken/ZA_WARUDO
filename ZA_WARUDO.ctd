@@ -1,0 +1,333 @@
+<?xml version="1.0" ?>
+<cherrytree>
+	<node custom_icon_id="0" foreground="" is_bold="True" name="The World" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526925824.13" ts_lastsave="1526925826.17" unique_id="66">
+		<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="True" name="Artefacts" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526925457.67" ts_lastsave="1526925827.99" unique_id="63">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="The Wandering Staff of Saint Jorvall" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526925473.94" ts_lastsave="1526925669.2" unique_id="64">
+				<rich_text>An old, gnarled staff made out of eldertree heartwood.
+The walking staff of Saint Jorvall, it was stolen from his grave and has been lost to the records of history for a long time.
+Anyone who lays eyes on the carrier of the Staff is overwhelmed by complete and unquestioning loyalty to the wielder.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="The Lovers' Bands" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526925489.6" ts_lastsave="1526925714.47" unique_id="65">
+				<rich_text>An enchanter bound parts of his own and his lover's souls to these two elaborate firesteel rings.
+The wielders of these two rings always know the exact location and mood of each other.</rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="True" name="Characters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924519.11" ts_lastsave="1526925831.95" unique_id="57">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="True" name="Deities" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924532.3" ts_lastsave="1526924537.67" unique_id="58">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="True" name="Mortals" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924537.67" ts_lastsave="1526924591.78" unique_id="59">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="True" name="Humans" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924591.78" ts_lastsave="1526924621.15" unique_id="60">
+					<rich_text></rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Tgran Ahrimov" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924621.15" ts_lastsave="1526925069.18" unique_id="61">
+						<rich_text>Also known as the Bloodletter
+Tgran was a region-renowned swordmaster and duelist
+One day he came across a cursed blade and picked it up out of hubris, certain he could bend it to his will.
+The blade did not wish to serve however, and demanded to be steeped in blood in order to enter a pact with Tgran.
+He did as he was told, for months he journeyed the land, seeking any opportunity to do battle and stirred up conflict when none could be found.
+Eventually the blade succumbed to his will, at least that is what he thought.
+He spent many years on the roads, acting as a mercenary, assassin, raider, or whatever else he felt like for the time being, holding no loyalties to anyone but himself.
+However, over time he grew weary of the constant battle, and decided to lay down the blade and retire. The blade however did not agree to this. For it had a knack of influencing its surroundings to bring it where it wanted to be. And where it wanted to be was in the hands of Tgran.
+It traded hands many times on its journey back to its servant, growing more and more resentful for every new fledgling novice to wave it around in futile attempts at greatness. It drained these worthless instruments of its journey to bare husks of their former selves, first of personality and ambitions, finally of their own blood and vitals.
+It always finds its way back to its favored servant, and upon doing so it shares the life force it has consumed on its path there.
+Tgran now strives to do as little harm as possible with the cursed artifact he carries with him, but at the same time knowing it has to be fed, or it surely will eventually tire of him. Were this to happen it would certainly carve an even bigger swathe of death and despair as it searched for a new master willing to attempt to weild it for their own means.
+</rich_text>
+					</node>
+				</node>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="True" name="Events" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526919542.49" ts_lastsave="1527004959.74" unique_id="29">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="True" name="Ages" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526919550.47" ts_lastsave="1526919550.47" unique_id="30">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="True" name="Conflicts" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526919562.68" ts_lastsave="1526919562.68" unique_id="31">
+				<rich_text></rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="True" name="Locations" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526856471.46" ts_lastsave="1526925835.94" unique_id="21">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="True" name="Ancient" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526856846.21" ts_lastsave="1526919571.91" unique_id="23">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Ley Lines" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920633.98" ts_lastsave="1526920635.51" unique_id="51">
+					<rich_text>The Ley Line network spansthe entirety of the known world, and extends far beyond
+Unnatural energies </rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Skypillar" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857286.99" ts_lastsave="1526920633.98" unique_id="25">
+					<rich_text>The anchor that holds the world in place
+Constructed of an unknown amterial, impervious to force and magic alike, it is always cool to the touch and never catches dust, dirt or evens cratches
+On its many branches, cities, towns and tradposts are situated, mostly as a gateway to the cloudlands of the Esterai</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Titan's Coast" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857124.24" ts_lastsave="1526919739.83" unique_id="24">
+					<rich_text>This coast is lined with gigantic, ancient constructs of a bygone age
+Faciong the Sea of Giants, they were once sentinels, built to protect the mainland from the horrors of the deeps
+Their activations requires long forgotten rituals, and are believed to be myth in present time</rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="True" name="Natural" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526856704.59" ts_lastsave="1526925903.7" unique_id="20">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Bosser Woods" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857634.4" ts_lastsave="1527008304.0" unique_id="27">
+					<rich_text>The Walking Woods
+Consisting of sentient “trees” called </rich_text>
+					<rich_text link="node 28">Bosser</rich_text>
+					<rich_text>
+Home of the </rich_text>
+					<rich_text link="node 17">Gromesen</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Larannia" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920272.02" ts_lastsave="1526920383.27" unique_id="41">
+					<rich_text>The Main continent</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Old Wood" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920383.27" ts_lastsave="1527008340.05" unique_id="46">
+					<rich_text>A massive forest surrounding the bottom of </rich_text>
+					<rich_text link="node 25">the Skypillar</rich_text>
+					<rich_text>
+</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Barren Fields" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920346.32" ts_lastsave="1527008400.34" unique_id="44">
+					<rich_text>A vast wasteland covering the central part of </rich_text>
+					<rich_text link="node 41">Larannia</rich_text>
+					<rich_text>.
+Home to the majority of </rich_text>
+					<rich_text link="node 15">Gori'Lak</rich_text>
+					<rich_text> tribes.</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Bonelands" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920330.88" ts_lastsave="1527008415.18" unique_id="43">
+					<rich_text>A smaller continent off the coast of </rich_text>
+					<rich_text link="node 41">Larannia</rich_text>
+					<rich_text>, partway out in the </rich_text>
+					<rich_text link="node 39">Sea of Giants</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Cloudlands" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920524.44" ts_lastsave="1526926012.37" unique_id="48">
+					<rich_text>The land of the Esteraí
+Called clouds due to them being almost indistinguishable from the ground, the Cloudlands are actually enchanted formations of water and air that are capable of supporting buildings, creatures and even some plantlife.
+They move around in predicatable patterns, allowing for the construction of a complicated network of drawbridges and ziplines that allow access for the inhabitants of the lands.</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Hestrian Pit" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857417.56" ts_lastsave="1526920316.84" unique_id="26">
+					<rich_text>This ancient crater covers almsot the entire continent on which it resides
+Shielded from the outside world by the towering crater walls, the inside ahs developed an utterly alien ecosystem to the outside
+Extremely high oxygen levels in the air supports gargantuan fauna and flora
+Only minor settlements can be found inside this jungle, since anything larger is detected and razed by ravenous predator packs and titanic apex predators</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Rakkan Wastes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920316.84" ts_lastsave="1526920316.84" unique_id="42">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Sea of Giants" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526919985.51" ts_lastsave="1527008550.26" unique_id="39">
+					<rich_text>The Sea of Giants is a body of water that spans the majority of </rich_text>
+					<rich_text link="node 41">Larannia</rich_text>
+					<rich_text>'s south-central coast.
+Named after the heavy concentration of gargantuan beings that inhabit the waters, sailors and fishers tend to never stray far from the coast, for grabbing even passing attention from one of these beings is enough to likely see your vessel capsized.</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Wailing Hills" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920364.48" ts_lastsave="1527008770.89" unique_id="45">
+					<rich_text>Found on the far-western coast of </rich_text>
+					<rich_text link="node 41">Larannia</rich_text>
+					<rich_text>, the Wailing Hills are named after the mysterious totem-like figures that stand, jutting like ruined teeth, spread out in what looks like a haphazard manner all over them.
+
+These formations let out a constant noise, sounding much like the lamentations of people wracked with grief. Prolonged exposure to this sound, or even a brief moment when the sound is at its most intense, is enough to lure individuals to approach them. Upon doing so, and placing ones bare skin upon the coarse surface of the monoliths, one will find themself unable to move away, being slowly dragged into the rock as if it were made of some kind of liquid rather than the solid stone they appear to be. Swift action is required to either sever the limb or, if enough force is available, shatter the figurine. Any limb or object dragged into the statue is beyond saving however, havn't gotten more than a finger's width into the idol before being ground to a fine paste, any liquids extracted from these being absorbed by the thirsty being caught inside the ominous construct.</rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="True" name="Historical Sites" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526925903.7" ts_lastsave="1526925907.65" unique_id="67">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Victory Field" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526925918.03" ts_lastsave="1526925918.03" unique_id="68">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="True" name="Settlements" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526856716.52" ts_lastsave="1526919708.97" unique_id="22">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Apothecaries Rest" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526919851.66" ts_lastsave="1526920562.25" unique_id="38">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Astaria" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920480.6" ts_lastsave="1527008211.66" unique_id="47">
+					<rich_text>Capital of the </rich_text>
+					<rich_text link="node 48">Cloudlands</rich_text>
+					<rich_text>, home of the </rich_text>
+					<rich_text link="node 16">Esteraí</rich_text>
+					<rich_text>
+</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Denfaux School of the Arts" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920803.9" ts_lastsave="1527008222.46" unique_id="52">
+					<rich_text>Once upon a time, Denfaux was a place dedicated to the teaching, research, preservation and development of all known arts.
+From painting to martial arts, architecture to arcane studies, history to necromancy and much, much more. No subject was excluded, regardless of social or societal taboo.
+
+One day or gradually over time, noone knows for sure, entire quarters of the school began drifting in and out of existance. Time seemed to flow at irregular intervals and locations began moving around, with corridors leading into flat walls, rooms looping in on themselves and the scale of entire quarters growing or shrinking seemingly at random.
+
+The inhabitants of this place have warped into abhorrent parodies of their past selves. A world renowned artist may have grown bored of the mundane tools of their trade, turning to crafting sculptures from the rot and filth of themselves or others. Maybe even integrating explorers or their fellow artists into their works. A songwrite might spin melodies that defy sane sensibilities, with only hearing the noise they produce being enough to wring minds away from sanity.
+
+These works, stories and similar is of high value to collectors of the perverse in the outside world, and an entire city has been erected on the outskirts of the School that thrives on the traffic generated by explorers, thrill seekers and treasure hunters that seek to dare Denfaux.</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Grastad" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920606.46" ts_lastsave="1527008234.19" unique_id="50">
+					<rich_text>Capital of the </rich_text>
+					<rich_text link="node 14">Nurn</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Jarnheim" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920238.76" ts_lastsave="1526920238.76" unique_id="40">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Jorvall" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526919599.99" ts_lastsave="1526919834.5" unique_id="32">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Life's Reach" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526919834.5" ts_lastsave="1526920582.46" unique_id="37">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Tangros" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920582.46" ts_lastsave="1527008183.54" unique_id="49">
+					<rich_text>Captial of the </rich_text>
+					<rich_text link="node 12">Heigan</rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="True" name="Structures" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526919708.97" ts_lastsave="1526919718.63" unique_id="33">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Pit" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526919820.92" ts_lastsave="1526919870.02" unique_id="36">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Reliquary" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526919812.58" ts_lastsave="1526919820.91" unique_id="35">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Tower of Light" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526919718.63" ts_lastsave="1526919861.34" unique_id="34">
+					<rich_text></rich_text>
+				</node>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="True" name="Magic" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527004959.74" ts_lastsave="1527004966.41" unique_id="69">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Charanha" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527005873.61" ts_lastsave="1527007271.22" unique_id="72">
+				<rich_text>Soul Streaming
+Tapping into the Soul Sea to have it act out into the material realm, either via pacts, coercing, bending it to ones will or any other similar method.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Ki-Tung" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527005021.88" ts_lastsave="1527006326.35" unique_id="71">
+				<rich_text>Physical Force
+The act of utilizing the latent force that resides in all things to influence ones own body, and in some cases the material plane around it, far beyond what any normal individual can achieve.</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Chimaeran Curse" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527006326.36" ts_lastsave="1527008128.19" unique_id="73">
+					<rich_text>A physical curse
+The chimaeran curse alters the victims physiology, greatly increasing their strenght, vigor, endurance and libido.
+The most striking effect however, is the one that lets the holder mate with any species, as long as it uses with the usual male-female method of procreation.
+There are some exceptions to this rule, with some males carrying the curse being able to inseminate eggs of other species as an example.
+The offspring of these unnatural unions will bear a conglomeration of traits from both of its parents. One conceived from a man and a horse might sport the lower body of a horse, with a mans torso, arms and head taking the place of the horse's head. A bird that roosts over a snake's egg might produce a winged serpent.
+One unfortunate side-effect of the curse for bearing females is that their bodies are rarely build in a way to accomodate the birth of these freaks of nature, and as such the mortality rate of birthing mothers is extremely high.
+
+The Chimaeran Curse is the defining trait of the </rich_text>
+					<rich_text link="node 15">Gori'Lak</rich_text>
+					<rich_text>.</rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Psychoria" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527005014.96" ts_lastsave="1527006229.76" unique_id="70">
+				<rich_text>Influence of the Mind
+Utilizing extreme levels of mental fortitude and knowledge of the internal machinations of the world to alter and bend it to your own will.</rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="True" name="Planes of Existance" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924206.68" ts_lastsave="1526925837.9" unique_id="53">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Reality" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924257.27" ts_lastsave="1526924264.05" unique_id="54">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Soul Sea" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924264.05" ts_lastsave="1526924264.05" unique_id="55">
+				<rich_text></rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="True" name="Races" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526554165.75" ts_lastsave="1526925839.2" unique_id="2">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Ancients" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526555827.19" ts_lastsave="1526923523.68" unique_id="4">
+				<rich_text>The creators
+Made the world and the Eternals
+All trace of their history or civilizations is either gone or never left lasting marks to ebgin with</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Eternal" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556153.13" ts_lastsave="1526920070.66" unique_id="10">
+					<rich_text>Direct descendants of the Ancients
+Creators of the Alaari and the Jaavel
+Only intervenes or guides the course of history on excceedingly rare occasions</rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Alaari" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526555853.92" ts_lastsave="1526920025.89" unique_id="6">
+						<rich_text>Angels
+Set to expand, populate and build the world</rich_text>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Ton Dir" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556160.45" ts_lastsave="1526920023.13" unique_id="11">
+							<rich_text>Giants
+Sculptors of Life</rich_text>
+							<node custom_icon_id="0" foreground="" is_bold="False" name="Humans" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526554112.42" ts_lastsave="1526919794.97" unique_id="1">
+								<rich_text>The Core Folk</rich_text>
+								<node custom_icon_id="0" foreground="" is_bold="False" name="Gori'Lak" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556325.76" ts_lastsave="1527008094.89" unique_id="15">
+									<rich_text>The Gori'Lak are tribal nomads, with a naming convention of placing the name of the tribe first, followed by the name of the individual. Feyen'Tac for example is “Tac of tribe Feyen”. Gori'Lak can be roughly translated as “Tribe of All” and is a word for referencing all tribes. Other names for them are Beastmen, Accursed Ones and Freakbands to name a few.
+
+The Gori'Lak are generally wholly inclusive to anyone seeking a place to belong and to find kindred beings. The only things the typical tribe demands is total allegience to the tribbe's leader and that the individual carries their own weight. For example, an individual unable to gather or prepare food to feed themselves can still be accepted into the tribe. The work that others put into keeping them alive jsut has to be repaid to the tribe in another way, perhaps by telling stories, educating the ones bright enough or acting as diplomats on the behalf of the tribe. This structure usually inspires, fosters and maintains fierce loyalty from the members towards the tribe, and most won't hesitate to throw themselves into danger to protect it.
+
+Bearers of the </rich_text>
+									<rich_text link="node 73">Chimaeran Curse</rich_text>
+									<rich_text>
+Due to the high mortality rate of chimaeran mothers, the Gori'Lak are a primarily patriachal society, with females rarely living long enough to gain the respect and influence over their tribe to rise to leadership positions. It is, however, not entirely unheard of.</rich_text>
+								</node>
+								<node custom_icon_id="0" foreground="" is_bold="False" name="Heigan" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556175.79" ts_lastsave="1527008174.66" unique_id="12">
+									<rich_text>Dwarves
+Capital: </rich_text>
+									<rich_text link="node 49">Tangros</rich_text>
+									<rich_text>
+</rich_text>
+								</node>
+								<node custom_icon_id="0" foreground="" is_bold="False" name="Telesen" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556184.47" ts_lastsave="1526923569.69" unique_id="13">
+									<rich_text>Elves
+Assigned as mortal wardens of locations and knowledge
+Their close proximity to places of power, perpetual feeding off of Ley Lines, sacred fruit or mythical game has lead to them having vastly extended lifetimes compared to their plain human ancestors.
+While most die to disease or injuries, some live long enough to see their will and connection to the world begin to fade. As this happens they tend scale down on activity and movement, some calcifying to statues that are supported as epitaphs of their long lives in their homes.</rich_text>
+									<node custom_icon_id="0" foreground="" is_bold="False" name="Beileda" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556361.56" ts_lastsave="1526919761.34" unique_id="18">
+										<rich_text>Riverfolk
+Traders</rich_text>
+									</node>
+									<node custom_icon_id="0" foreground="" is_bold="False" name="Esteraí" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556346.13" ts_lastsave="1526919758.83" unique_id="16">
+										<rich_text>Cloudfolk
+</rich_text>
+									</node>
+									<node custom_icon_id="0" foreground="" is_bold="False" name="Gromesen" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556353.06" ts_lastsave="1527008278.8" unique_id="17">
+										<rich_text>Woodfolk
+Seclusive, guardians of </rich_text>
+										<rich_text link="node 27">Bosser Woods</rich_text>
+									</node>
+									<node custom_icon_id="0" foreground="" is_bold="False" name="Nurn" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556194.44" ts_lastsave="1527008258.32" unique_id="14">
+										<rich_text>Cavefolk
+Capital: </rich_text>
+										<rich_text link="node 50">Grastad</rich_text>
+										<rich_text>
+Delvers of the deeps, explorers</rich_text>
+									</node>
+								</node>
+							</node>
+						</node>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Ton Mehr" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526564343.61" ts_lastsave="1526920020.12" unique_id="19">
+							<rich_text>Titans
+Sculptors of Nature</rich_text>
+							<node custom_icon_id="0" foreground="" is_bold="False" name="Bosser" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857685.13" ts_lastsave="1526919798.88" unique_id="28">
+								<rich_text>The Walking Woods
+These sentient trees migrate slowly across the lands, drinking their path dry and tilling the earth, preparing it for lavish regrowth in upcoming rain seasons</rich_text>
+							</node>
+						</node>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Jaavel" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526555846.56" ts_lastsave="1526920017.29" unique_id="5">
+						<rich_text>Devils
+Set to contain, limit and test the world, ensuing its strength and growth</rich_text>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Draegir" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526554204.8" ts_lastsave="1527004870.54" unique_id="3">
+							<rich_text>Dragon-Kin
+Reptilian
+Seek to dominate others and bend the land to their will
+</rich_text>
+						</node>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Inferii" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556120.12" ts_lastsave="1526920012.99" unique_id="7">
+							<rich_text>Demon Kin</rich_text>
+							<node custom_icon_id="0" foreground="" is_bold="False" name="Grynn" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556127.8" ts_lastsave="1526920010.7" unique_id="8">
+								<rich_text>Ogres
+Omnivores
+Workers</rich_text>
+							</node>
+							<node custom_icon_id="0" foreground="" is_bold="False" name="Thacka" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556141.86" ts_lastsave="1526920008.14" unique_id="9">
+								<rich_text>Trolls
+Warriors
+Fiercly cultural and xenophobic</rich_text>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="True" name="Religions" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924505.75" ts_lastsave="1526925840.76" unique_id="56">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Church of Rot" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526925344.37" ts_lastsave="1526925344.37" unique_id="62">
+				<rich_text></rich_text>
+			</node>
+		</node>
+	</node>
+</cherrytree>
