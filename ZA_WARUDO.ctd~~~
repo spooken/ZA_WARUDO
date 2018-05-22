@@ -57,9 +57,9 @@ Tgran now strives to do as little harm as possible with the cursed artifact he c
 					<rich_text>The Ley Line network spans the entirety of the known world, and extends far beyond
 Unnatural energies </rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="The Skypillar" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857286.99" ts_lastsave="1526920633.98" unique_id="25">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Skypillar" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857286.99" ts_lastsave="1527014149.79" unique_id="25">
 					<rich_text>The anchor that holds the world in place
-Constructed of an unknown amterial, impervious to force and magic alike, it is always cool to the touch and never catches dust, dirt or evens cratches
+Constructed of an unknown material, impervious to force and magic alike, it is always cool to the touch and never catches dust, dirt or evens cratches
 On its many branches, cities, towns and tradposts are situated, mostly as a gateway to the cloudlands of the Esterai</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Titan's Coast" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857124.24" ts_lastsave="1526919739.83" unique_id="24">
