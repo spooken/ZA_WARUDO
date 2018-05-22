@@ -57,16 +57,14 @@ Tgran now strives to do as little harm as possible with the cursed artifact he c
 					<rich_text>The Ley Line network spans the entirety of the known world, and extends far beyond
 Unnatural energies </rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="The Skypillar" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857286.99" ts_lastsave="1527014149.79" unique_id="25">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Skypillar" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857286.99" ts_lastsave="1526920633.98" unique_id="25">
 					<rich_text>The anchor that holds the world in place
-Constructed of an unknown material, impervious to force and magic alike, it is always cool to the touch and never catches dust, dirt or evens cratches
+Constructed of an unknown amterial, impervious to force and magic alike, it is always cool to the touch and never catches dust, dirt or evens cratches
 On its many branches, cities, towns and tradposts are situated, mostly as a gateway to the cloudlands of the Esterai</rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Titan's Coast" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857124.24" ts_lastsave="1527014502.59" unique_id="24">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Titan's Coast" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857124.24" ts_lastsave="1526919739.83" unique_id="24">
 					<rich_text>This coast is lined with gigantic, ancient constructs of a bygone age
-Facing the </rich_text>
-					<rich_text link="node 39">Sea of Giants</rich_text>
-					<rich_text>, they were once sentinels, built to protect the mainland from the horrors of the deeps
+Faciong the Sea of Giants, they were once sentinels, built to protect the mainland from the horrors of the deeps
 Their activations requires long forgotten rituals, and are believed to be myth in present time</rich_text>
 				</node>
 			</node>
@@ -83,9 +81,9 @@ Home of the </rich_text>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Larannia" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920272.02" ts_lastsave="1526920383.27" unique_id="41">
 					<rich_text>The Main continent</rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Old Wood" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920383.27" ts_lastsave="1527014592.12" unique_id="46">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Old Wood" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920383.27" ts_lastsave="1527008340.05" unique_id="46">
 					<rich_text>A massive forest surrounding the bottom of </rich_text>
-					<rich_text link="node 25">The Skypillar</rich_text>
+					<rich_text link="node 25">the Skypillar</rich_text>
 					<rich_text>
 </rich_text>
 				</node>
@@ -103,16 +101,14 @@ Home to the majority of </rich_text>
 					<rich_text>, partway out in the </rich_text>
 					<rich_text link="node 39">Sea of Giants</rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="The Cloudlands" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920524.44" ts_lastsave="1527014648.14" unique_id="48">
-					<rich_text>The land of the </rich_text>
-					<rich_text link="node 29">Esteraí</rich_text>
-					<rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Cloudlands" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920524.44" ts_lastsave="1526926012.37" unique_id="48">
+					<rich_text>The land of the Esteraí
 Called clouds due to them being almost indistinguishable from the ground, the Cloudlands are actually enchanted formations of water and air that are capable of supporting buildings, creatures and even some plantlife.
 They move around in predicatable patterns, allowing for the construction of a complicated network of drawbridges and ziplines that allow access for the inhabitants of the lands.</rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="The Hestrian Pit" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857417.56" ts_lastsave="1527014731.27" unique_id="26">
-					<rich_text>This ancient crater covers almost the entire continent on which it resides
-Shielded from the outside world by the towering crater walls, the inside has developed an utterly alien ecosystem to the outside
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Hestrian Pit" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857417.56" ts_lastsave="1526920316.84" unique_id="26">
+					<rich_text>This ancient crater covers almsot the entire continent on which it resides
+Shielded from the outside world by the towering crater walls, the inside ahs developed an utterly alien ecosystem to the outside
 Extremely high oxygen levels in the air supports gargantuan fauna and flora
 Only minor settlements can be found inside this jungle, since anything larger is detected and razed by ravenous predator packs and titanic apex predators</rich_text>
 				</node>
@@ -125,12 +121,12 @@ Only minor settlements can be found inside this jungle, since anything larger is
 					<rich_text>'s south-central coast.
 Named after the heavy concentration of gargantuan beings that inhabit the waters, sailors and fishers tend to never stray far from the coast, for grabbing even passing attention from one of these beings is enough to likely see your vessel capsized.</rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Wailing Hills" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920364.48" ts_lastsave="1527014935.24" unique_id="45">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Wailing Hills" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920364.48" ts_lastsave="1527008770.89" unique_id="45">
 					<rich_text>Found on the far-western coast of </rich_text>
 					<rich_text link="node 41">Larannia</rich_text>
 					<rich_text>, the Wailing Hills are named after the mysterious totem-like figures that stand, jutting like ruined teeth, spread out in what looks like a haphazard manner all over them.
 
-These formations let out a constant noise, sounding much like the lamentations of people wracked with grief. Prolonged exposure to this sound, or even a brief moment when the sound is at its most intense, is enough to lure individuals to approach them. Upon doing so, and placing ones bare skin upon the coarse surface of the monoliths, one will find themself unable to move away, being slowly dragged into the rock as if it were made of some kind of liquid rather than the solid stone they appear to be. Swift action is required to either sever the limb or, if enough force is available, shatter the figurine. Any limb or object dragged into the statue is beyond saving however, haven't gotten more than a finger's width into the idol before being ground to a fine paste, any liquids extracted from these being absorbed by the thirsty being caught inside the ominous construct.</rich_text>
+These formations let out a constant noise, sounding much like the lamentations of people wracked with grief. Prolonged exposure to this sound, or even a brief moment when the sound is at its most intense, is enough to lure individuals to approach them. Upon doing so, and placing ones bare skin upon the coarse surface of the monoliths, one will find themself unable to move away, being slowly dragged into the rock as if it were made of some kind of liquid rather than the solid stone they appear to be. Swift action is required to either sever the limb or, if enough force is available, shatter the figurine. Any limb or object dragged into the statue is beyond saving however, havn't gotten more than a finger's width into the idol before being ground to a fine paste, any liquids extracted from these being absorbed by the thirsty being caught inside the ominous construct.</rich_text>
 				</node>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="True" name="Historical Sites" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526925903.7" ts_lastsave="1526925907.65" unique_id="67">
@@ -231,20 +227,14 @@ Utilizing extreme levels of mental fortitude and knowledge of the internal machi
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="True" name="Races" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526554165.75" ts_lastsave="1526925839.2" unique_id="2">
 			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Ancients" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526555827.19" ts_lastsave="1527015337.09" unique_id="4">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Ancients" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526555827.19" ts_lastsave="1526923523.68" unique_id="4">
 				<rich_text>The creators
 Made the world and the Eternals
-All trace of their history or civilizations is either gone or never left lasting marks to begin with.</rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Eternal" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556153.13" ts_lastsave="1527015309.89" unique_id="10">
-					<rich_text>Direct descendants of the </rich_text>
-					<rich_text link="node 63">Ancients</rich_text>
-					<rich_text>
-Creators of the </rich_text>
-					<rich_text link="node 63">Alaari</rich_text>
-					<rich_text> and the </rich_text>
-					<rich_text link="node 40">Jaavel</rich_text>
-					<rich_text>
-Only intervenes or guides the course of history on excceedingly rare occasions.</rich_text>
+All trace of their history or civilizations is either gone or never left lasting marks to ebgin with</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Eternal" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556153.13" ts_lastsave="1526920070.66" unique_id="10">
+					<rich_text>Direct descendants of the Ancients
+Creators of the Alaari and the Jaavel
+Only intervenes or guides the course of history on excceedingly rare occasions</rich_text>
 					<node custom_icon_id="0" foreground="" is_bold="False" name="Alaari" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526555853.92" ts_lastsave="1526920025.89" unique_id="6">
 						<rich_text>Angels
 Set to expand, populate and build the world</rich_text>
