@@ -53,8 +53,8 @@ Tgran now strives to do as little harm as possible with the cursed artifact he c
 			<rich_text></rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="True" name="Ancient" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526856846.21" ts_lastsave="1526919571.91" unique_id="23">
 				<rich_text></rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="The Ley Lines" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920633.98" ts_lastsave="1527012825.69" unique_id="51">
-					<rich_text>The Ley Line network spans the entirety of the known world, and extends far beyond
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Ley Lines" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920633.98" ts_lastsave="1526920635.51" unique_id="51">
+					<rich_text>The Ley Line network spansthe entirety of the known world, and extends far beyond
 Unnatural energies </rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="The Skypillar" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857286.99" ts_lastsave="1526920633.98" unique_id="25">
