@@ -9,9 +9,13 @@
 The walking staff of Saint Jorvall, it was stolen from his grave and has been lost to the records of history for a long time.
 Anyone who lays eyes on the carrier of the Staff is overwhelmed by complete and unquestioning loyalty to the wielder.</rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="The Lovers' Bands" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526925489.6" ts_lastsave="1526925714.47" unique_id="65">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="The Lovers' Bands" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526925489.6" ts_lastsave="1527032142.37" unique_id="65">
 				<rich_text>An enchanter bound parts of his own and his lover's souls to these two elaborate firesteel rings.
 The wielders of these two rings always know the exact location and mood of each other.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Sanguine" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527032142.38" ts_lastsave="1527032147.18" unique_id="74">
+				<rich_text>The cursed blade Sanguine has a long and bloody history.
+Tales speak of it as early as</rich_text>
 			</node>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="True" name="Characters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924519.11" ts_lastsave="1526925831.95" unique_id="57">
@@ -42,8 +46,47 @@ Tgran now strives to do as little harm as possible with the cursed artifact he c
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="True" name="Events" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526919542.49" ts_lastsave="1527004959.74" unique_id="29">
 			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="True" name="Ages" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526919550.47" ts_lastsave="1526919550.47" unique_id="30">
+			<node custom_icon_id="0" foreground="" is_bold="True" name="Ages" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526919550.47" ts_lastsave="1527032329.56" unique_id="30">
 				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Age of Creation" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527032329.56" ts_lastsave="1527032469.59" unique_id="75">
+					<rich_text>Tales tell of when the Creators, the Ancients, shaped the world and the first races.
+No written history remains of this time, and only the Immortals have any information about it, information that they are not fond of sharing.</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Age of Myths" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527032338.54" ts_lastsave="1527032734.75" unique_id="76">
+					<rich_text>Also predating recorded history, the Age of Myths is said to be the time where the Immortals experimented on what flora and fauna would populate the world.
+It is said that the land and what tread upon it could change as quickly as on a day-to-day basis. Barren mountains rising, only to fall away again to give place to oceans teeming with life or jungles sprawling across the land.</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Age of Dragons" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527032347.55" ts_lastsave="1527033652.75" unique_id="77">
+					<rich_text>There was a time when the Draegir were the dominant species of the world, with the others either cowering in their infancy, hiding in the depths of caves or staying constantly on the move to avoid the watchful hungry eyes of the reptilian lords.
+
+This was that time.
+
+Lasting millenia, the Age of Dragons finally met its end when the Alaari managed to create and mobilize a new set of races to combat their ironclad rule of the world. This paved the way for the Age of Man to begin.</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Age of Man" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527033648.28" ts_lastsave="1527033648.28" unique_id="86">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Great Schism" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527032354.02" ts_lastsave="1527032362.57" unique_id="78">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Age of Founding" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527032362.57" ts_lastsave="1527032381.32" unique_id="79">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Red Milennia" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527032381.32" ts_lastsave="1527032391.03" unique_id="80">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Age of Reclamation" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527032391.03" ts_lastsave="1527032432.09" unique_id="81">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Age of the Beast" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527032432.09" ts_lastsave="1527032442.01" unique_id="82">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Age of Exploration" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527032442.01" ts_lastsave="1527032448.75" unique_id="83">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Present Age" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527032448.75" ts_lastsave="1527032448.75" unique_id="84">
+					<rich_text></rich_text>
+				</node>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="True" name="Conflicts" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526919562.68" ts_lastsave="1526919562.68" unique_id="31">
 				<rich_text></rich_text>
@@ -62,9 +105,11 @@ Unnatural energies </rich_text>
 Constructed of an unknown material, impervious to force and magic alike, it is always cool to the touch and never catches dust, dirt or evens cratches
 On its many branches, cities, towns and tradposts are situated, mostly as a gateway to the cloudlands of the Esterai</rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Titan's Coast" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857124.24" ts_lastsave="1526919739.83" unique_id="24">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Titan's Coast" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857124.24" ts_lastsave="1527014502.59" unique_id="24">
 					<rich_text>This coast is lined with gigantic, ancient constructs of a bygone age
-Faciong the Sea of Giants, they were once sentinels, built to protect the mainland from the horrors of the deeps
+Facing the </rich_text>
+					<rich_text link="node 39">Sea of Giants</rich_text>
+					<rich_text>, they were once sentinels, built to protect the mainland from the horrors of the deeps
 Their activations requires long forgotten rituals, and are believed to be myth in present time</rich_text>
 				</node>
 			</node>
@@ -81,9 +126,9 @@ Home of the </rich_text>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Larannia" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920272.02" ts_lastsave="1526920383.27" unique_id="41">
 					<rich_text>The Main continent</rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Old Wood" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920383.27" ts_lastsave="1527008340.05" unique_id="46">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Old Wood" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920383.27" ts_lastsave="1527014592.12" unique_id="46">
 					<rich_text>A massive forest surrounding the bottom of </rich_text>
-					<rich_text link="node 25">the Skypillar</rich_text>
+					<rich_text link="node 25">The Skypillar</rich_text>
 					<rich_text>
 </rich_text>
 				</node>
@@ -101,14 +146,16 @@ Home to the majority of </rich_text>
 					<rich_text>, partway out in the </rich_text>
 					<rich_text link="node 39">Sea of Giants</rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="The Cloudlands" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920524.44" ts_lastsave="1526926012.37" unique_id="48">
-					<rich_text>The land of the Esteraí
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Cloudlands" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920524.44" ts_lastsave="1527014648.14" unique_id="48">
+					<rich_text>The land of the </rich_text>
+					<rich_text link="node 29">Esteraí</rich_text>
+					<rich_text>
 Called clouds due to them being almost indistinguishable from the ground, the Cloudlands are actually enchanted formations of water and air that are capable of supporting buildings, creatures and even some plantlife.
 They move around in predicatable patterns, allowing for the construction of a complicated network of drawbridges and ziplines that allow access for the inhabitants of the lands.</rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="The Hestrian Pit" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857417.56" ts_lastsave="1526920316.84" unique_id="26">
-					<rich_text>This ancient crater covers almsot the entire continent on which it resides
-Shielded from the outside world by the towering crater walls, the inside ahs developed an utterly alien ecosystem to the outside
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Hestrian Pit" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857417.56" ts_lastsave="1527014731.27" unique_id="26">
+					<rich_text>This ancient crater covers almost the entire continent on which it resides
+Shielded from the outside world by the towering crater walls, the inside has developed an utterly alien ecosystem to the outside
 Extremely high oxygen levels in the air supports gargantuan fauna and flora
 Only minor settlements can be found inside this jungle, since anything larger is detected and razed by ravenous predator packs and titanic apex predators</rich_text>
 				</node>
@@ -121,12 +168,12 @@ Only minor settlements can be found inside this jungle, since anything larger is
 					<rich_text>'s south-central coast.
 Named after the heavy concentration of gargantuan beings that inhabit the waters, sailors and fishers tend to never stray far from the coast, for grabbing even passing attention from one of these beings is enough to likely see your vessel capsized.</rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Wailing Hills" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920364.48" ts_lastsave="1527008770.89" unique_id="45">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Wailing Hills" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920364.48" ts_lastsave="1527014935.24" unique_id="45">
 					<rich_text>Found on the far-western coast of </rich_text>
 					<rich_text link="node 41">Larannia</rich_text>
 					<rich_text>, the Wailing Hills are named after the mysterious totem-like figures that stand, jutting like ruined teeth, spread out in what looks like a haphazard manner all over them.
 
-These formations let out a constant noise, sounding much like the lamentations of people wracked with grief. Prolonged exposure to this sound, or even a brief moment when the sound is at its most intense, is enough to lure individuals to approach them. Upon doing so, and placing ones bare skin upon the coarse surface of the monoliths, one will find themself unable to move away, being slowly dragged into the rock as if it were made of some kind of liquid rather than the solid stone they appear to be. Swift action is required to either sever the limb or, if enough force is available, shatter the figurine. Any limb or object dragged into the statue is beyond saving however, havn't gotten more than a finger's width into the idol before being ground to a fine paste, any liquids extracted from these being absorbed by the thirsty being caught inside the ominous construct.</rich_text>
+These formations let out a constant noise, sounding much like the lamentations of people wracked with grief. Prolonged exposure to this sound, or even a brief moment when the sound is at its most intense, is enough to lure individuals to approach them. Upon doing so, and placing ones bare skin upon the coarse surface of the monoliths, one will find themself unable to move away, being slowly dragged into the rock as if it were made of some kind of liquid rather than the solid stone they appear to be. Swift action is required to either sever the limb or, if enough force is available, shatter the figurine. Any limb or object dragged into the statue is beyond saving however, haven't gotten more than a finger's width into the idol before being ground to a fine paste, any liquids extracted from these being absorbed by the thirsty being caught inside the ominous construct.</rich_text>
 				</node>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="True" name="Historical Sites" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526925903.7" ts_lastsave="1526925907.65" unique_id="67">
@@ -227,26 +274,34 @@ Utilizing extreme levels of mental fortitude and knowledge of the internal machi
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="True" name="Races" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526554165.75" ts_lastsave="1526925839.2" unique_id="2">
 			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Ancients" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526555827.19" ts_lastsave="1526923523.68" unique_id="4">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Ancients" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526555827.19" ts_lastsave="1527015337.09" unique_id="4">
 				<rich_text>The creators
 Made the world and the Eternals
-All trace of their history or civilizations is either gone or never left lasting marks to ebgin with</rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Eternal" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556153.13" ts_lastsave="1526920070.66" unique_id="10">
-					<rich_text>Direct descendants of the Ancients
-Creators of the Alaari and the Jaavel
-Only intervenes or guides the course of history on excceedingly rare occasions</rich_text>
-					<node custom_icon_id="0" foreground="" is_bold="False" name="Alaari" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526555853.92" ts_lastsave="1526920025.89" unique_id="6">
-						<rich_text>Angels
-Set to expand, populate and build the world</rich_text>
-						<node custom_icon_id="0" foreground="" is_bold="False" name="Ton Dir" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556160.45" ts_lastsave="1526920023.13" unique_id="11">
-							<rich_text>Giants
-Sculptors of Life</rich_text>
-							<node custom_icon_id="0" foreground="" is_bold="False" name="Humans" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526554112.42" ts_lastsave="1526919794.97" unique_id="1">
-								<rich_text>The Core Folk</rich_text>
-								<node custom_icon_id="0" foreground="" is_bold="False" name="Gori'Lak" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556325.76" ts_lastsave="1527008094.89" unique_id="15">
+All trace of their history or civilizations is either gone or never left lasting marks to begin with.</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Eternal" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556153.13" ts_lastsave="1527015309.89" unique_id="10">
+					<rich_text>Direct descendants of the </rich_text>
+					<rich_text link="node 63">Ancients</rich_text>
+					<rich_text>
+Creators of the </rich_text>
+					<rich_text link="node 63">Alaari</rich_text>
+					<rich_text> and the </rich_text>
+					<rich_text link="node 40">Jaavel</rich_text>
+					<rich_text>
+Only intervenes or guides the course of history on excceedingly rare occasions.</rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Alaari" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526555853.92" ts_lastsave="1527034039.32" unique_id="6">
+						<rich_text>The Alaari were tasked withcrafting resilient and resourceful races to inhabit and thrive in the world. They were meant to ensure that there would be life and energy in the world.</rich_text>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Ton Dir" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556160.45" ts_lastsave="1527034278.88" unique_id="11">
+							<rich_text>The Ton Dir, Flesh Crafters, are massive humanoids. The few remaining in the world live isolated in secluded places hostile to other life.
+
+Once created by the Alaari, they were beset upon the task of helping the Alaari with populating the world, creating all the lesser beings that would inhabit it. For while the Alaari focused on carefully crafting the civilized and sentient beings of the world, the Ton Dir churned out massive amounts of simple organisms, letting natural selection decide which ones could survive and which would perish.</rich_text>
+							<node custom_icon_id="0" foreground="" is_bold="False" name="Humans" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526554112.42" ts_lastsave="1527034512.65" unique_id="1">
+								<rich_text>Humans are the favored creations of the Alaari. Resourceful, ingenious and stubborn, they have found ways to survive every single age since their creation, and never even coming close to extinction. They know when to hold their heads low and stick to the sidelines of history, but also when its their time to step out into the sunlight and claim their lands and lives from those who would oppress them.
+
+Most of the civilizations of the current world are humans or direct descendants of them. From the stoic Jorvallans, to the secretive Nurn and the cloud-scaping Esteraí, humanity in one form or anot</rich_text>
+								<node custom_icon_id="0" foreground="" is_bold="False" name="Gori'Lak" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556325.76" ts_lastsave="1527015492.99" unique_id="15">
 									<rich_text>The Gori'Lak are tribal nomads, with a naming convention of placing the name of the tribe first, followed by the name of the individual. Feyen'Tac for example is “Tac of tribe Feyen”. Gori'Lak can be roughly translated as “Tribe of All” and is a word for referencing all tribes. Other names for them are Beastmen, Accursed Ones and Freakbands to name a few.
 
-The Gori'Lak are generally wholly inclusive to anyone seeking a place to belong and to find kindred beings. The only things the typical tribe demands is total allegience to the tribbe's leader and that the individual carries their own weight. For example, an individual unable to gather or prepare food to feed themselves can still be accepted into the tribe. The work that others put into keeping them alive jsut has to be repaid to the tribe in another way, perhaps by telling stories, educating the ones bright enough or acting as diplomats on the behalf of the tribe. This structure usually inspires, fosters and maintains fierce loyalty from the members towards the tribe, and most won't hesitate to throw themselves into danger to protect it.
+The Gori'Lak are generally wholly inclusive to anyone seeking a place to belong and to find kindred beings. The only things the typical tribe demands is total allegience to the tribe's leader and that the individual carries their own weight. For example, an individual unable to gather or prepare food to feed themselves can still be accepted into the tribe. The work that others put into keeping them alive just has to be repaid to the tribe in another way, perhaps by telling stories, educating the ones bright enough or acting as diplomats on the behalf of the tribe. This structure usually inspires, fosters and maintains fierce loyalty from the members towards the tribe, and most won't hesitate to throw themselves into danger to protect it.
 
 Bearers of the </rich_text>
 									<rich_text link="node 73">Chimaeran Curse</rich_text>
@@ -288,23 +343,32 @@ Delvers of the deeps, explorers</rich_text>
 								</node>
 							</node>
 						</node>
-						<node custom_icon_id="0" foreground="" is_bold="False" name="Ton Mehr" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526564343.61" ts_lastsave="1526920020.12" unique_id="19">
-							<rich_text>Titans
-Sculptors of Nature</rich_text>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Ton Mehr" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526564343.61" ts_lastsave="1527034335.32" unique_id="19">
+							<rich_text>Ton Mehr, Soil Crafters, are titanic beings. Capable of shaping mountains and carving out rivers with their bare hands, the Alaari beset them with the task of managing the lay of the land.
+
+None have been seen in milennia, at least no records of a sighting remain to be found.</rich_text>
 							<node custom_icon_id="0" foreground="" is_bold="False" name="Bosser" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857685.13" ts_lastsave="1526919798.88" unique_id="28">
 								<rich_text>The Walking Woods
 These sentient trees migrate slowly across the lands, drinking their path dry and tilling the earth, preparing it for lavish regrowth in upcoming rain seasons</rich_text>
 							</node>
 						</node>
 					</node>
-					<node custom_icon_id="0" foreground="" is_bold="False" name="Jaavel" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526555846.56" ts_lastsave="1526920017.29" unique_id="5">
-						<rich_text>Devils
-Set to contain, limit and test the world, ensuing its strength and growth</rich_text>
-						<node custom_icon_id="0" foreground="" is_bold="False" name="Draegir" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526554204.8" ts_lastsave="1527004870.54" unique_id="3">
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Jaavel" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526555846.56" ts_lastsave="1527033912.38" unique_id="5">
+						<rich_text>Set upon the task to prevent stagnation and the weakness and complacency of the inhabitants of the world, the Jaavel strived to create conflict and struggle wherever they could. This was not in order to destroy the world, but to temper its denizens in the harsh flames of pain, depravity and conflict to ensure that stagnation and complacency did not wring their cold hands around the world.</rich_text>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Draegir" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526554204.8" ts_lastsave="1527032769.88" unique_id="3">
 							<rich_text>Dragon-Kin
 Reptilian
 Seek to dominate others and bend the land to their will
 </rich_text>
+							<node custom_icon_id="0" foreground="" is_bold="False" name="Saurii" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527032769.89" ts_lastsave="1527032771.32" unique_id="85">
+								<rich_text>The Sauri are non-magical descendants of the Draegir.
+
+Having lost their connection to the Soul Sea, and their mind regressing from sentience to a more primal and ferocious stage, the Saurii are instead physical monstrocities. The Ki-Tung of the larger specimens is immense, with some barely able to contain it, unleashing waves of force into the ground with every single step.
+
+They come in all manner of different forms, sizes and social structures, from skittering pack hunters to towering alpha predators. Most commonly found in the Hestrian Pit, but also on rare occasions they can be sighted throughout the land.
+
+</rich_text>
+							</node>
 						</node>
 						<node custom_icon_id="0" foreground="" is_bold="False" name="Inferii" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556120.12" ts_lastsave="1526920012.99" unique_id="7">
 							<rich_text>Demon Kin</rich_text>
