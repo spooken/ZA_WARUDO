@@ -96,13 +96,13 @@ This was that time.
 
 Lasting millenia, the Age of Dragons finally met its end when the Alaari managed to create and mobilize a new set of races to combat their ironclad rule of the world. This paved the way for the Age of Man to begin.</rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Age of Man" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527033648.28" ts_lastsave="1527035673.92" unique_id="86">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Age of Man" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527033648.28" ts_lastsave="1527101505.58" unique_id="86">
 					<rich_text>With their greatest enemy more or less vanquished, the humans rose up to claim the world.
 
-</rich_text>
+Most technological advancements were made during this age, with steam powered, clockwork, arctech and much more being developed.</rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="The Great Schism" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527032354.02" ts_lastsave="1527032362.57" unique_id="78">
-					<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Great Schism" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527032354.02" ts_lastsave="1527101594.71" unique_id="78">
+					<rich_text>The shattering of the human empire.</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Age of Founding" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527032362.57" ts_lastsave="1527032381.32" unique_id="79">
 					<rich_text></rich_text>
@@ -307,10 +307,10 @@ Utilizing extreme levels of mental fortitude and knowledge of the internal machi
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="True" name="Planes of Existance" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924206.68" ts_lastsave="1526925837.9" unique_id="53">
 			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Reality" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924257.27" ts_lastsave="1526924264.05" unique_id="54">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="The Material Realm" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924257.27" ts_lastsave="1527066836.77" unique_id="54">
 				<rich_text></rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Soul Sea" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924264.05" ts_lastsave="1526924264.05" unique_id="55">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="The Soul Sea" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924264.05" ts_lastsave="1527066843.17" unique_id="55">
 				<rich_text></rich_text>
 			</node>
 		</node>

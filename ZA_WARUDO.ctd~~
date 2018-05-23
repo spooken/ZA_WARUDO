@@ -42,7 +42,7 @@ Not all who worship turn into mindless thralls however, there are those who reta
 				<rich_text></rich_text>
 				<node custom_icon_id="0" foreground="" is_bold="True" name="Humans" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924591.78" ts_lastsave="1526924621.15" unique_id="60">
 					<rich_text></rich_text>
-					<node custom_icon_id="0" foreground="" is_bold="False" name="Tgran Ahrimov" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924621.15" ts_lastsave="1526925069.18" unique_id="61">
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Tgran Ahrimov" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924621.15" ts_lastsave="1527066269.48" unique_id="61">
 						<rich_text>Also known as the Bloodletter
 Tgran was a region-renowned swordmaster and duelist
 One day he came across a cursed blade and picked it up out of hubris, certain he could bend it to his will.
@@ -55,6 +55,24 @@ It traded hands many times on its journey back to its servant, growing more and 
 It always finds its way back to its favored servant, and upon doing so it shares the life force it has consumed on its path there.
 Tgran now strives to do as little harm as possible with the cursed artifact he carries with him, but at the same time knowing it has to be fed, or it surely will eventually tire of him. Were this to happen it would certainly carve an even bigger swathe of death and despair as it searched for a new master willing to attempt to weild it for their own means.
 </rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="The Founding Brothers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527066269.49" ts_lastsave="1527066298.68" unique_id="89">
+						<rich_text></rich_text>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Heimlar" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527066298.69" ts_lastsave="1527066303.8" unique_id="90">
+							<rich_text></rich_text>
+						</node>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Rodric" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527066303.81" ts_lastsave="1527066306.9" unique_id="91">
+							<rich_text></rich_text>
+						</node>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Velten" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527066306.91" ts_lastsave="1527066311.33" unique_id="92">
+							<rich_text></rich_text>
+						</node>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Jorvall" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527066311.34" ts_lastsave="1527066313.88" unique_id="93">
+							<rich_text></rich_text>
+						</node>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Jurne" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527066313.89" ts_lastsave="1527066313.89" unique_id="94">
+							<rich_text></rich_text>
+						</node>
 					</node>
 				</node>
 			</node>
@@ -117,22 +135,24 @@ Lasting millenia, the Age of Dragons finally met its end when the Alaari managed
 					<rich_text>The Ley Line network spans the entirety of the known world, and extends far beyond.
 Unnatural energies </rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="The Skypillar" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857286.99" ts_lastsave="1527036916.55" unique_id="25">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Skypillar" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857286.99" ts_lastsave="1527037218.15" unique_id="25">
 					<rich_text>The anchor that holds the world in place.
 
 Constructed of an unknown material, impervious to force and magic alike, it is always cool to the touch and never catches dust, dirt or evens cratches.
 Matte black in color and hundreds of meters wide, it rises straight up from the earth, extending up above the clouds and beyond, disappearing from view long before its top can be observed.
 Jutting from it at irregular intervals are clusters of “branches” that stretch outwards up to several kilometers, with smaller branches extending from them, and so on.
-The pillar appears at a glance to be smooth, but upon closer inspection walkways and tunnels can be found littered across its surface, allowing for traversal and
+The pillar appears at a glance to be smooth, but upon closer inspection walkways and tunnels can be found littered across its surface, allowing for traversal up and down the pillar.
 
 On its many branches cities, towns and tradeposts are situated, mostly as a gateway to the cloudlands of the Esterai.</rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Titan's Coast" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857124.24" ts_lastsave="1527014502.59" unique_id="24">
-					<rich_text>This coast is lined with gigantic, ancient constructs of a bygone age
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Titan's Coast" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857124.24" ts_lastsave="1527037285.0" unique_id="24">
+					<rich_text>This coast is lined with gigantic, ancient constructs of a bygone age.
+
 Facing the </rich_text>
 					<rich_text link="node 39">Sea of Giants</rich_text>
-					<rich_text>, they were once sentinels, built to protect the mainland from the horrors of the deeps
-Their activations requires long forgotten rituals, and are believed to be myth in present time</rich_text>
+					<rich_text>, they were once sentinels, built to protect the mainland from the horrors of the deeps.
+
+Their activations requires long forgotten rituals, and are believed to be myth in the present age.</rich_text>
 				</node>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="True" name="Natural" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526856704.59" ts_lastsave="1526925903.7" unique_id="20">
@@ -416,8 +436,11 @@ Fiercly cultural and xenophobic</rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="True" name="Religions" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924505.75" ts_lastsave="1526925840.76" unique_id="56">
 			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Church of Rot" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526925344.37" ts_lastsave="1526925344.37" unique_id="62">
-				<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Church of Rot" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526925344.37" ts_lastsave="1527037339.41" unique_id="62">
+				<rich_text>Deity: </rich_text>
+				<rich_text link="node 87">The God Shroom</rich_text>
+				<rich_text>
+</rich_text>
 			</node>
 		</node>
 	</node>
