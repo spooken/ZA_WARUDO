@@ -20,9 +20,13 @@ Tales speak of it as early as</rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="True" name="Characters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924519.11" ts_lastsave="1526925831.95" unique_id="57">
 			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="True" name="Deities" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924532.3" ts_lastsave="1527035938.31" unique_id="58">
+			<node custom_icon_id="0" foreground="" is_bold="True" name="Deities" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924532.3" ts_lastsave="1527036695.3" unique_id="58">
 				<rich_text></rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="The God Shroom" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527035938.32" ts_lastsave="1527036313.41" unique_id="87">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Jorvall" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527036695.31" ts_lastsave="1527036698.48" unique_id="88">
+					<rich_text>Saint Jorvall, founder of the Jorvall Empire.
+Not an acitve deity, Jorvall is worshipped throughout his empire as the quintessential role model and person that everyone should aspire to be more alike.</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The God Shroom" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527035938.32" ts_lastsave="1527036612.75" unique_id="87">
 					<rich_text>Mother, Father, God Shroom, He Who Lives Within. Some of the names ascribed to this massive growth in the middle of an unnamed swamp far away from any greater civilization.
 
 Surrounding this being, a small ramshackle hamlet has sprung from the wet and muck. Inhabited by those who have long since given up on their own lives, they now live only to safeguard and worship the apparent deity in their midst.
@@ -31,7 +35,7 @@ The being demands only one thing, sustenence. This can be anything from plants, 
 
 In return, the benevolent master blesses its supplicants with eternal, painless life. But pain is not the only thing lacking, but emotions, bliss, ambitions, worries and pride all melt away over time. The long tendril-like roots of the being permeating the land and everything upon it, creating strands of influence that it can use to take direct control of its followers.
 
-Not all who worship turn into mindless thralls however, there are those who retain their selves. These are the Rot Priests. Bent on spreading the word of their progenitor, they travel f</rich_text>
+Not all who worship turn into mindless thralls however, there are those who retain their selves. These are the Rot Priests. Bent on spreading the word of their progenitor, they travel far and wide, utilizing their abhorrent magic to heal and inspire others to follow them back home, to join their family of eternal existence.</rich_text>
 				</node>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="True" name="Mortals" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924537.67" ts_lastsave="1526924591.78" unique_id="59">
@@ -109,8 +113,8 @@ Lasting millenia, the Age of Dragons finally met its end when the Alaari managed
 			<rich_text></rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="True" name="Ancient" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526856846.21" ts_lastsave="1526919571.91" unique_id="23">
 				<rich_text></rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="The Ley Lines" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920633.98" ts_lastsave="1527012825.69" unique_id="51">
-					<rich_text>The Ley Line network spans the entirety of the known world, and extends far beyond
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Ley Lines" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920633.98" ts_lastsave="1527036906.39" unique_id="51">
+					<rich_text>The Ley Line network spans the entirety of the known world, and extends far beyond.
 Unnatural energies </rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="The Skypillar" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857286.99" ts_lastsave="1527014149.79" unique_id="25">

@@ -117,22 +117,24 @@ Lasting millenia, the Age of Dragons finally met its end when the Alaari managed
 					<rich_text>The Ley Line network spans the entirety of the known world, and extends far beyond.
 Unnatural energies </rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="The Skypillar" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857286.99" ts_lastsave="1527036916.55" unique_id="25">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Skypillar" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857286.99" ts_lastsave="1527037218.15" unique_id="25">
 					<rich_text>The anchor that holds the world in place.
 
 Constructed of an unknown material, impervious to force and magic alike, it is always cool to the touch and never catches dust, dirt or evens cratches.
 Matte black in color and hundreds of meters wide, it rises straight up from the earth, extending up above the clouds and beyond, disappearing from view long before its top can be observed.
 Jutting from it at irregular intervals are clusters of “branches” that stretch outwards up to several kilometers, with smaller branches extending from them, and so on.
-The pillar appears at a glance to be smooth, but upon closer inspection walkways and tunnels can be found littered across its surface, allowing for traversal and
+The pillar appears at a glance to be smooth, but upon closer inspection walkways and tunnels can be found littered across its surface, allowing for traversal up and down the pillar.
 
 On its many branches cities, towns and tradeposts are situated, mostly as a gateway to the cloudlands of the Esterai.</rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Titan's Coast" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857124.24" ts_lastsave="1527014502.59" unique_id="24">
-					<rich_text>This coast is lined with gigantic, ancient constructs of a bygone age
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Titan's Coast" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526857124.24" ts_lastsave="1527037285.0" unique_id="24">
+					<rich_text>This coast is lined with gigantic, ancient constructs of a bygone age.
+
 Facing the </rich_text>
 					<rich_text link="node 39">Sea of Giants</rich_text>
-					<rich_text>, they were once sentinels, built to protect the mainland from the horrors of the deeps
-Their activations requires long forgotten rituals, and are believed to be myth in present time</rich_text>
+					<rich_text>, they were once sentinels, built to protect the mainland from the horrors of the deeps.
+
+Their activations requires long forgotten rituals, and are believed to be myth in the present age.</rich_text>
 				</node>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="True" name="Natural" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526856704.59" ts_lastsave="1526925903.7" unique_id="20">
@@ -416,8 +418,11 @@ Fiercly cultural and xenophobic</rich_text>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="True" name="Religions" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924505.75" ts_lastsave="1526925840.76" unique_id="56">
 			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Church of Rot" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526925344.37" ts_lastsave="1526925344.37" unique_id="62">
-				<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Church of Rot" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526925344.37" ts_lastsave="1527037339.41" unique_id="62">
+				<rich_text>Deity: </rich_text>
+				<rich_text link="node 87">The God Shroom</rich_text>
+				<rich_text>
+</rich_text>
 			</node>
 		</node>
 	</node>
