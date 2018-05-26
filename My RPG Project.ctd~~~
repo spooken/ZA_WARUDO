@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<cherrytree>
+	<node custom_icon_id="0" foreground="" is_bold="True" name="Classes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527341746.87" ts_lastsave="1527344680.7" unique_id="1">
+		<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="True" name="Sorcerer" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527345838.4" ts_lastsave="1527358837.08" unique_id="13">
+			<rich_text>Gifted or cursed with innate magical abilities, Sorcerers are unstable conduits for these supernatural energies.
+
+A person might have been born with a natural affinity for channeling these energies, or perhaps an accident in a magic ritual left them exposed to powers beyond their understanding. The reason why varies, but how the powers manifest between individuals is more common.
+
+A Sorcerer's magical ability is untamed. One might intend to cast a fireball, only to end up in a hellish inferno or barely producing enough heat to warm up a tent. How much the outcome varies comes down to how much time the Sorcerer has spent on mastering the spell they are attempting to cast, with higher mastery narrowing the potential outcomes down to only a few after sufficient practice.
+
+Sorcerers tend to be personalitites of extremes and rarely come off as a random nobody in a crowd. Their shame for the powers that they cant control might have turned them into reclusive, shy and embarrassed individuals, or their anger at these consuming forces bend them towards a hostile and brash nature, picking fights when they rear their heads, or looking for them if they do not.
+
+Playing a Sorcerer means you want to shape your experience around the wild outcomes of their unstable spellcasting.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="True" name="Warlock" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527341758.0" ts_lastsave="1527358867.6" unique_id="2">
+			<rich_text>Warlocks come in many forms. They can be individuals hellbent on achieving their ambitions and damn any morals, conventions, laws or other people standing in their way. Or how about a downtrodden farmer, pushed to the limit by their lord and seeking the final chance to get control of their own life. To do this, they have strucken a deal with an extraplanar entity to lend them their power, rising them above their feeble mortal form into something capable of living up to their dreams.
+
+These deals, however, are not as simple as might seem at first. These entities care little for the mortals that subject themselves to their will, and will be expecting their obedience in return. They might crave sacrifices to prove their subjects loyalty, or maybe that they adhere to a strict set of rules, a code. Failing to live up to these expectations will results in backlash in one way or another, like physical deformation, curses placed on the Warlock or thoise close to him. Continued disobedience might result in the Warlock being stripped of all their power, their death at the hand of their Master or maybe they are broken, reduced to a gibbering shell of who they once were.
+
+Character
+
+Playing as</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Pacts" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527344657.12" ts_lastsave="1527344662.42" unique_id="4">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Force" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527344662.42" ts_lastsave="1527345042.51" unique_id="5">
+					<rich_text>A Pact of Force lends the supplicant</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Might" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527344666.44" ts_lastsave="1527371063.82" unique_id="6">
+					<rich_text>Wishing to attain strength and fortitude unreachable by regular humans, the Warlock has entered into a pact with a Deity of War, Slaughter or Combat.
+
+Gain increased Strength and Constitution.
+
+Uncanny Stature
+The Warlock inspires uneasyness in those who face him. Anyone wishing to attack the Warlock in melee has to pass a Charisma check or suffer Disadvantage on those rolls.
+
+Fearsome Stature
+The Warlocks visage is horrid to behold. Any character within 10 meters of the Warlock has to pass a Charisma check or have Disadvantage on all roles directed towards the Warlock for that turn.</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Knowledge" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527345038.07" ts_lastsave="1527370651.38" unique_id="12">
+					<rich_text>The Warlock has sold his soul in order to attain the knowledge and lore of the ancestral being.
+
+Gain advantage on all knowledge checks.</rich_text>
+				</node>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="True" name="Possessed" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527341762.42" ts_lastsave="1527359019.46" unique_id="3">
+			<rich_text>The Possessed is a person who has been inbibed with a demon, fiend or spirit. Be this as a result of a ritual gone wrong, a desperate attempt to contain an evil, a curse or whatever reason the player can come up with.
+
+Possessed are generally frailer or less mentally strong than other people, due to their constant struggle to keep the reins on the being inside them. They make up for this however with the possibility of summoning the strength of the being inside to manifest in the physical realm.
+
+Manifesting this power, however, takes a toll on the host. While smaller, sporadic uses of the entity might blow over with time. Calling on it to perform greater deeds or manifest fully as an avatar however might result in dire backlash, with the possibility of the being breaking free of its chains and maybe killing the host in the progress.
+
+Personality wise the possessed can come in all shapes and forms. They might struggle with their demon or live in fear of their own potential. Some might lead relatively normal lives, believing that they have come to good terms with their otherworldly guest, not knowing that such a thing is not possible, since no being wants to live an eternity entrapped within another body.
+
+The Possessed as a class plays with a beneath-average standard performance spiked with great heights. As the adventure progresses and taller and taller tasks are asked of the party however, the odds of the being breaking loose increases. Whatever party or adventure the Possessed follows along in is sure to be visited by death, bless fate it is not the party that succumbs.</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Beings" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527344694.83" ts_lastsave="1527344821.97" unique_id="7">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Malice" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527344821.97" ts_lastsave="1527344826.98" unique_id="8">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Destruction" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527344826.98" ts_lastsave="1527344831.14" unique_id="9">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Greed" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527344831.14" ts_lastsave="1527345013.86" unique_id="10">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Pain" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527345013.86" ts_lastsave="1527345013.86" unique_id="11">
+					<rich_text></rich_text>
+				</node>
+			</node>
+		</node>
+	</node>
+</cherrytree>

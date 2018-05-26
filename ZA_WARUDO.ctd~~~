@@ -42,7 +42,7 @@ Not all who worship turn into mindless thralls however, there are those who reta
 				<rich_text></rich_text>
 				<node custom_icon_id="0" foreground="" is_bold="True" name="Humans" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924591.78" ts_lastsave="1526924621.15" unique_id="60">
 					<rich_text></rich_text>
-					<node custom_icon_id="0" foreground="" is_bold="False" name="Tgran Ahrimov" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924621.15" ts_lastsave="1526925069.18" unique_id="61">
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Tgran Ahrimov" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924621.15" ts_lastsave="1527066269.48" unique_id="61">
 						<rich_text>Also known as the Bloodletter
 Tgran was a region-renowned swordmaster and duelist
 One day he came across a cursed blade and picked it up out of hubris, certain he could bend it to his will.
@@ -55,6 +55,24 @@ It traded hands many times on its journey back to its servant, growing more and 
 It always finds its way back to its favored servant, and upon doing so it shares the life force it has consumed on its path there.
 Tgran now strives to do as little harm as possible with the cursed artifact he carries with him, but at the same time knowing it has to be fed, or it surely will eventually tire of him. Were this to happen it would certainly carve an even bigger swathe of death and despair as it searched for a new master willing to attempt to weild it for their own means.
 </rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="The Founding Brothers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527066269.49" ts_lastsave="1527066298.68" unique_id="89">
+						<rich_text></rich_text>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Heimlar" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527066298.69" ts_lastsave="1527066303.8" unique_id="90">
+							<rich_text></rich_text>
+						</node>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Rodric" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527066303.81" ts_lastsave="1527066306.9" unique_id="91">
+							<rich_text></rich_text>
+						</node>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Velten" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527066306.91" ts_lastsave="1527066311.33" unique_id="92">
+							<rich_text></rich_text>
+						</node>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Jorvall" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527066311.34" ts_lastsave="1527066313.88" unique_id="93">
+							<rich_text></rich_text>
+						</node>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Jurne" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527066313.89" ts_lastsave="1527066313.89" unique_id="94">
+							<rich_text></rich_text>
+						</node>
 					</node>
 				</node>
 			</node>
@@ -78,13 +96,13 @@ This was that time.
 
 Lasting millenia, the Age of Dragons finally met its end when the Alaari managed to create and mobilize a new set of races to combat their ironclad rule of the world. This paved the way for the Age of Man to begin.</rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Age of Man" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527033648.28" ts_lastsave="1527035673.92" unique_id="86">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Age of Man" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527033648.28" ts_lastsave="1527101505.58" unique_id="86">
 					<rich_text>With their greatest enemy more or less vanquished, the humans rose up to claim the world.
 
-</rich_text>
+Most technological advancements were made during this age, with steam powered, clockwork, arctech and much more being developed.</rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="The Great Schism" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527032354.02" ts_lastsave="1527032362.57" unique_id="78">
-					<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Great Schism" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527032354.02" ts_lastsave="1527101594.71" unique_id="78">
+					<rich_text>The shattering of the human empire.</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Age of Founding" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527032362.57" ts_lastsave="1527032381.32" unique_id="79">
 					<rich_text></rich_text>
@@ -289,10 +307,10 @@ Utilizing extreme levels of mental fortitude and knowledge of the internal machi
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="True" name="Planes of Existance" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924206.68" ts_lastsave="1526925837.9" unique_id="53">
 			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Reality" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924257.27" ts_lastsave="1526924264.05" unique_id="54">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="The Material Realm" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924257.27" ts_lastsave="1527066836.77" unique_id="54">
 				<rich_text></rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Soul Sea" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924264.05" ts_lastsave="1526924264.05" unique_id="55">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="The Soul Sea" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924264.05" ts_lastsave="1527066843.17" unique_id="55">
 				<rich_text></rich_text>
 			</node>
 		</node>

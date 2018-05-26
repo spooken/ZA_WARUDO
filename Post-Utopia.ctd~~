@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<cherrytree>
+	<node custom_icon_id="0" foreground="" is_bold="True" name="Factions" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527201630.98" ts_lastsave="1527201883.36" unique_id="1">
+		<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Human" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527201659.92" ts_lastsave="1527266635.47" unique_id="2">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Eden" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527266635.47" ts_lastsave="1527266639.99" unique_id="5">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Outriders" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527266639.99" ts_lastsave="1527266642.99" unique_id="6">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Raiders" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527266642.99" ts_lastsave="1527267119.14" unique_id="7">
+				<rich_text>Having grown tired of the totalitarian society of Eden or the pseudo-communist society of the Caravan, wishing to strike out on their own, the Raiders are a vast number of groups that prowl the wastes. Seeking riches, glory, fame, infamy or any other personal agenda, but mostly simply freedom, </rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Nomad" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527201692.84" ts_lastsave="1527266715.15" unique_id="3">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Rangers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527266715.15" ts_lastsave="1527267015.12" unique_id="8">
+				<rich_text>The Rangers are Nomads who specialize in surveying the wastes and are second to none when it comes to surviving in it and utilizing the environment.
+
+Moving around in small groups, usually as few as only two to ten individuals, the Rangers are seen as the elite of the Nomads. They are held in high regard by most everyone and if they stop their business, to tell stories or pass along tips or warnings, Nomads and Humans alike tend to stop to listen in and listen closely.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="The Caravan" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527266728.08" ts_lastsave="1527266730.71" unique_id="9">
+				<rich_text>The primary Nomad society.
+
+This massive conglomeration of pack animals, vehicles, airships and mobile structures roams the wastes, setting up camp wherever trading can be done or resources extracted.</rich_text>
+			</node>
+		</node>
+	</node>
+	<node custom_icon_id="0" foreground="" is_bold="True" name="Regions" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527201883.36" ts_lastsave="1527201883.36" unique_id="4">
+		<rich_text></rich_text>
+	</node>
+</cherrytree>
