@@ -192,19 +192,20 @@ Home of the </rich_text>
 					<rich_text>
 </rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="The Barren Fields" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920346.32" ts_lastsave="1527008400.34" unique_id="44">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Barren Fields" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920346.32" ts_lastsave="1527201000.24" unique_id="44">
 					<rich_text>A vast wasteland covering the central part of </rich_text>
 					<rich_text link="node 41">Larannia</rich_text>
 					<rich_text>.
-Home to the majority of </rich_text>
+Home to a vast range of </rich_text>
 					<rich_text link="node 15">Gori'Lak</rich_text>
 					<rich_text> tribes.</rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="The Bonelands" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920330.88" ts_lastsave="1527008415.18" unique_id="43">
-					<rich_text>A smaller continent off the coast of </rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Bonelands" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920330.88" ts_lastsave="1527200972.07" unique_id="43">
+					<rich_text>A pair of smaller continents off the coast of </rich_text>
 					<rich_text link="node 41">Larannia</rich_text>
-					<rich_text>, partway out in the </rich_text>
+					<rich_text>, partway out into the </rich_text>
 					<rich_text link="node 39">Sea of Giants</rich_text>
+					<rich_text>.</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="The Cloudlands" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920524.44" ts_lastsave="1527014648.14" unique_id="48">
 					<rich_text>The land of the </rich_text>

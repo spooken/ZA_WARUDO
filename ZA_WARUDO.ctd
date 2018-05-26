@@ -22,9 +22,9 @@ Tales speak of it as early as</rich_text>
 			<rich_text></rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="True" name="Deities" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924532.3" ts_lastsave="1527036695.3" unique_id="58">
 				<rich_text></rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Jorvall" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527036695.31" ts_lastsave="1527036698.48" unique_id="88">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Jorvall" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527036695.31" ts_lastsave="1527377313.65" unique_id="88">
 					<rich_text>Saint Jorvall, founder of the Jorvall Empire.
-Not an acitve deity, Jorvall is worshipped throughout his empire as the quintessential role model and person that everyone should aspire to be more alike.</rich_text>
+Not an acitve deity but rather a martyr, Jorvall is worshipped throughout his empire as the quintessential role model and person that everyone should aspire to be more alike.</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="The God Shroom" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527035938.32" ts_lastsave="1527036612.75" unique_id="87">
 					<rich_text>Mother, Father, God Shroom, He Who Lives Within. Some of the names ascribed to this massive growth in the middle of an unnamed swamp far away from any greater civilization.
@@ -359,8 +359,14 @@ Once created by the Alaari, they were beset upon the task of helping the Alaari 
 								<rich_text>Humans are the favored creations of the Alaari. Resourceful, ingenious and stubborn, they have found ways to survive every single age since their creation, and never even coming close to extinction. They know when to hold their heads low and stick to the sidelines of history, but also when its their time to step out into the sunlight and claim their lands and lives from those who would oppress them.
 
 Most of the civilizations of the current world are humans or direct descendants of them. From the stoic Jorvallans, to the secretive Nurn and the cloud-scaping Esteraí, humanity in one form or another can be found wherever you go.</rich_text>
-								<node custom_icon_id="0" foreground="" is_bold="False" name="Dreamers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527200603.51" ts_lastsave="1527200606.29" unique_id="95">
-									<rich_text></rich_text>
+								<node custom_icon_id="0" foreground="" is_bold="False" name="Dreamers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527200603.51" ts_lastsave="1527377170.35" unique_id="95">
+									<rich_text>Reality Shapers
+
+Their dreams manifest in the real world.
+
+Hunted relentlessly due to their ability to destroy and shape the world.
+
+Lucid Dreamers are practically unheard of, but the few that have been known have left the world, or created their own new one to mold and shape to their liking.</rich_text>
 								</node>
 								<node custom_icon_id="0" foreground="" is_bold="False" name="Gori'Lak" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556325.76" ts_lastsave="1527015492.99" unique_id="15">
 									<rich_text>The Gori'Lak are tribal nomads, with a naming convention of placing the name of the tribe first, followed by the name of the individual. Feyen'Tac for example is “Tac of tribe Feyen”. Gori'Lak can be roughly translated as “Tribe of All” and is a word for referencing all tribes. Other names for them are Beastmen, Accursed Ones and Freakbands to name a few.

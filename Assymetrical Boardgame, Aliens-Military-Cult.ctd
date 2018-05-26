@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<cherrytree>
+	<node custom_icon_id="0" foreground="" is_bold="True" name="Factions" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527377457.0" ts_lastsave="1527377465.72" unique_id="1">
+		<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="True" name="The Alien" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527377471.99" ts_lastsave="1527377491.24" unique_id="3">
+			<rich_text>The Alien is different from the other factions in that it is a single unit rather than a team.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="True" name="The Cult" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527377474.7" ts_lastsave="1527377487.05" unique_id="4">
+			<rich_text></rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="True" name="The Military" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527377465.72" ts_lastsave="1527377489.39" unique_id="2">
+			<rich_text></rich_text>
+		</node>
+	</node>
+</cherrytree>

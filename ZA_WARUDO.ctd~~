@@ -77,7 +77,7 @@ Tgran now strives to do as little harm as possible with the cursed artifact he c
 				</node>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="True" name="Events" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526919542.49" ts_lastsave="1527004959.74" unique_id="29">
+		<node custom_icon_id="0" foreground="" is_bold="True" name="Events" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526919542.49" ts_lastsave="1527200657.35" unique_id="29">
 			<rich_text></rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="True" name="Ages" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526919550.47" ts_lastsave="1527032329.56" unique_id="30">
 				<rich_text></rich_text>
@@ -124,6 +124,24 @@ Most technological advancements were made during this age, with steam powered, c
 				</node>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="True" name="Conflicts" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526919562.68" ts_lastsave="1526919562.68" unique_id="31">
+				<rich_text></rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="True" name="Factions" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527200657.35" ts_lastsave="1527200662.35" unique_id="96">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="True" name="Gori'Lak Tribes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527200809.02" ts_lastsave="1527200903.95" unique_id="98">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="True" name="Beiléda" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527200903.95" ts_lastsave="1527200911.56" unique_id="101">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="True" name="Heigans" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527200884.52" ts_lastsave="1527200884.52" unique_id="99">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="True" name="Humans" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527200670.74" ts_lastsave="1527200895.04" unique_id="97">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="True" name="Nurn" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527200895.04" ts_lastsave="1527200895.04" unique_id="100">
 				<rich_text></rich_text>
 			</node>
 		</node>
@@ -370,7 +388,7 @@ With their entire culture being born from resentment and a desire to stand on th
 Their close proximity to places of power, perpetual feeding off of Ley Lines, sacred fruit or mythical game has lead to them having vastly extended lifetimes compared to their plain human ancestors.
 
 While most die to disease or injuries, some live long enough to see their will and connection to the world begin to fade. As this happens they tend scale down on activity and movement, some calcifying to statues that are supported as epitaphs of their long lives in their homes.</rich_text>
-									<node custom_icon_id="0" foreground="" is_bold="False" name="Beileda" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556361.56" ts_lastsave="1526919761.34" unique_id="18">
+									<node custom_icon_id="0" foreground="" is_bold="False" name="Beiléda" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556361.56" ts_lastsave="1527200919.16" unique_id="18">
 										<rich_text>Riverfolk
 Traders</rich_text>
 									</node>
