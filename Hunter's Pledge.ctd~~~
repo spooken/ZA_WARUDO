@@ -257,11 +257,117 @@ A Garrison is a military outpost and features minimal services for the player, b
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Items, Bodymods etc" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378535.63" ts_lastsave="1527378540.5" unique_id="49">
 			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Gear" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378540.5" ts_lastsave="1527378546.68" unique_id="50">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Gear" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378540.5" ts_lastsave="1527378732.97" unique_id="50">
 				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Containers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378732.97" ts_lastsave="1527378810.41" unique_id="77">
+					<rich_text></rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Bag" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378810.41" ts_lastsave="1527378814.04" unique_id="90">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Rucksack" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378814.04" ts_lastsave="1527378816.92" unique_id="91">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Purse" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378816.93" ts_lastsave="1527378819.15" unique_id="92">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Locket" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378819.17" ts_lastsave="1527378819.17" unique_id="93">
+						<rich_text></rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Jewelry" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378738.74" ts_lastsave="1527378790.01" unique_id="78">
+					<rich_text></rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Ring" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378790.01" ts_lastsave="1527378794.8" unique_id="87">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Necklace" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378799.68" ts_lastsave="1527378802.06" unique_id="88">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Piercing" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378802.06" ts_lastsave="1527378802.06" unique_id="89">
+						<rich_text></rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Armor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378742.35" ts_lastsave="1527378778.19" unique_id="79">
+					<rich_text></rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Leather" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378778.19" ts_lastsave="1527378780.15" unique_id="84">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Hide" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378780.17" ts_lastsave="1527378780.75" unique_id="85">
+						<rich_text>
+</rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Chain" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378784.8" ts_lastsave="1527378784.8" unique_id="86">
+						<rich_text></rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Trinket" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378747.27" ts_lastsave="1527378750.26" unique_id="80">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Consumable" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378750.26" ts_lastsave="1527378754.13" unique_id="81">
+					<rich_text></rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Potion" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378760.95" ts_lastsave="1527378768.8" unique_id="82">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Drugs" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378768.8" ts_lastsave="1527378768.8" unique_id="83">
+						<rich_text></rich_text>
+					</node>
+				</node>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Weapons" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378546.68" ts_lastsave="1527378553.16" unique_id="51">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Weapons" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378546.68" ts_lastsave="1527378630.54" unique_id="51">
 				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Primitive" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378630.54" ts_lastsave="1527378696.33" unique_id="59">
+					<rich_text></rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Sword" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378696.34" ts_lastsave="1527378698.88" unique_id="71">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Mace" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378698.88" ts_lastsave="1527378701.54" unique_id="72">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Spear" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378701.54" ts_lastsave="1527378704.87" unique_id="73">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Staff" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378704.87" ts_lastsave="1527378719.3" unique_id="74">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Bows" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378707.49" ts_lastsave="1527378712.53" unique_id="75">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Crossbow" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378712.53" ts_lastsave="1527378712.53" unique_id="76">
+						<rich_text></rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Modern" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378633.13" ts_lastsave="1527378657.87" unique_id="60">
+					<rich_text></rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Gunpowder" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378657.87" ts_lastsave="1527378676.04" unique_id="64">
+						<rich_text></rich_text>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Handcannon" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378676.05" ts_lastsave="1527378681.35" unique_id="67">
+							<rich_text></rich_text>
+						</node>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Blunderbuss" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378681.35" ts_lastsave="1527378683.61" unique_id="68">
+							<rich_text></rich_text>
+						</node>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Rifle" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378683.61" ts_lastsave="1527378686.33" unique_id="69">
+							<rich_text></rich_text>
+						</node>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Bomb" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378686.33" ts_lastsave="1527378686.33" unique_id="70">
+							<rich_text></rich_text>
+						</node>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Mechanical" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378661.09" ts_lastsave="1527378666.8" unique_id="65">
+						<rich_text></rich_text>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Springloaded" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378666.8" ts_lastsave="1527378670.3" unique_id="66">
+							<rich_text></rich_text>
+						</node>
+					</node>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Occult" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378639.15" ts_lastsave="1527378647.03" unique_id="61">
+					<rich_text></rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Soul Prison" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378647.04" ts_lastsave="1527378650.91" unique_id="62">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Witch Stick" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378650.91" ts_lastsave="1527378650.91" unique_id="63">
+						<rich_text></rich_text>
+					</node>
+				</node>
 			</node>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Bodymods" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378553.16" ts_lastsave="1527378566.36" unique_id="52">
 				<rich_text></rich_text>
@@ -280,8 +386,8 @@ A Garrison is a military outpost and features minimal services for the player, b
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Rot Maggots" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378607.38" ts_lastsave="1527378611.0" unique_id="57">
 					<rich_text>Push a fistful of rot maggots into yourself or another being, dealing damage or healing wounds.</rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Goddess' Sight" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378618.12" ts_lastsave="1527378618.12" unique_id="58">
-					<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Goddess' Sight" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378618.12" ts_lastsave="1527378621.88" unique_id="58">
+					<rich_text>Gain true sight of your immediate surroundings, piercing walls and covering a 360 degree area.</rich_text>
 				</node>
 			</node>
 		</node>

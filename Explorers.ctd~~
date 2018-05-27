@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<cherrytree>
+	<node custom_icon_id="0" foreground="" is_bold="True" name="Introduction" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527427704.57" ts_lastsave="1527428003.15" unique_id="1">
+		<rich_text weight="heavy">Genre</rich_text>
+		<rich_text>
+Strategy, Rogue-lite
+
+</rich_text>
+		<rich_text weight="heavy">High Concept</rich_text>
+		<rich_text>
+The goal of the game is to simulate the experience of continuously exploring the same continent, with each expedition knowing nothing of the place except what information has been gained through earlier expeditions.
+
+</rich_text>
+		<rich_text weight="heavy">Description</rich_text>
+		<rich_text>
+In Explorers the player takes control of a institution in charge of exploring, mapping and colonizing a strange new continent.
+
+This is done via the player putting together a contingent of adventurers to ship to the new land. Upon arriving, the player takes direct control of this group and utilizes them to brave the terrain and wildlife of this peculiar new frontier.
+
+Every expedition sent out will eventually succumb to the harsh environment, deadly predators, disease or lack of resources. When this happens, what knowledge can be retained from the hard work of these brave men is what can be found and recovered from the </rich_text>
+		<rich_text weight="heavy">Explorer’s Logs</rich_text>
+		<rich_text> sent back or recovered from past expeditions.</rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Description" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428003.15" ts_lastsave="1527428003.15" unique_id="3">
+			<rich_text></rich_text>
+		</node>
+	</node>
+	<node custom_icon_id="0" foreground="" is_bold="True" name="Game Mechanics" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527427825.68" ts_lastsave="1527428069.22" unique_id="2">
+		<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Game Rythm" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428200.24" ts_lastsave="1527428203.76" unique_id="16">
+			<rich_text>The game is turn-based, with one turn representing one day.
+
+During each turn, the player can perform any combination af actions up to a maximum amount based on the time they take to perform.</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Turn Actions" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428284.23" ts_lastsave="1527428635.54" unique_id="17">
+				<rich_text>All actions take an amount of time based on how proficient the party is at performing them.
+
+For example, having a party that excels at hunting game, but has no members worth their salt when it comes to construction, would be better off spending their days hunting and hiring the help to construct their camp from locals.</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Travel" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428293.48" ts_lastsave="1527428300.46" unique_id="18">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Make Note" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428300.46" ts_lastsave="1527428346.36" unique_id="19">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Build" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428303.01" ts_lastsave="1527428308.26" unique_id="20">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Hunt" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428308.27" ts_lastsave="1527428310.54" unique_id="21">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Forage" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428310.55" ts_lastsave="1527428313.23" unique_id="22">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Prepare" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428313.23" ts_lastsave="1527428323.82" unique_id="23">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Relax" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428323.83" ts_lastsave="1527428326.15" unique_id="24">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Sleep" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428326.15" ts_lastsave="1527428336.69" unique_id="25">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Fortify" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428336.69" ts_lastsave="1527428336.69" unique_id="26">
+					<rich_text></rich_text>
+				</node>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="World Generation" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428069.22" ts_lastsave="1527428177.87" unique_id="4">
+			<rich_text>When a player has sent out an exploration, the entire world they arrive at is randomly generated, with some exceptions as described in the Exploration section.</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Biomes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428087.07" ts_lastsave="1527428129.59" unique_id="5">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Forest" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428094.78" ts_lastsave="1527428098.1" unique_id="6">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Desert" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428098.1" ts_lastsave="1527428100.31" unique_id="7">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Tundra" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428100.31" ts_lastsave="1527428112.69" unique_id="8">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Plains" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428112.69" ts_lastsave="1527428115.65" unique_id="9">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Mountain" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428115.65" ts_lastsave="1527428115.65" unique_id="10">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Features" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428129.59" ts_lastsave="1527428141.54" unique_id="11">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Settlement" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428141.54" ts_lastsave="1527428144.47" unique_id="12">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="River" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428144.47" ts_lastsave="1527428157.2" unique_id="13">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Road" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428157.2" ts_lastsave="1527428169.51" unique_id="14">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Point of Interest" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428169.51" ts_lastsave="1527428169.51" unique_id="15">
+					<rich_text></rich_text>
+				</node>
+			</node>
+		</node>
+	</node>
+</cherrytree>
