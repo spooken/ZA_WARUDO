@@ -178,10 +178,217 @@ Certain Avian familiars can lend a hand in combat, namely hawks and other birds 
 			<rich_text>Time passes at a rate of 24 hours in-game time per 1 hour of real-world time. This leads to 30 minutes of gameplay during the day and 30 minutes during the night, with transitional periods of dusk and dawn between them.
 </rich_text>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Resources" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378316.39" ts_lastsave="1527378319.35" unique_id="30">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Resources" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378316.39" ts_lastsave="1527378337.48" unique_id="30">
 			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Coin" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378319.35" ts_lastsave="1527378319.35" unique_id="31">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Coin" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378319.35" ts_lastsave="1527378322.81" unique_id="31">
+				<rich_text>Coin is a global resource that can be used in stores and similar.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Favor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378327.13" ts_lastsave="1527378330.98" unique_id="32">
+				<rich_text>Favor is a personal resource between two characters. Favor earned from one character can be utilized only for goods and services from that character and has no impact or use outside of that one individual. Favors owed towards the player character will mostly be carried out when asked to by villagers and honorable men, but favors owed by the player are maybe ignored when called upon or maybe the player simply kills off the one asking for said favor so as to not have it come back to bite them.</rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Loot" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378337.48" ts_lastsave="1527378338.07" unique_id="33">
+			<rich_text>Some creatures have equipment and gear, while others reside over hoards of items or treasure. These can be obtained from the creature in question or looted from their dens after dispatching them. Or maybe you just sneak by them and take what you want, leaving the monster to act out its revenge towards the nearby village you set out to help.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Harvest" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378348.2" ts_lastsave="1527378348.9" unique_id="34">
+			<rich_text>After downing a Hunt, the player can spend some time butchering, disassembling, breaking apart or extract substances from the corpse. What this yields varies from creature to creature but includes things like hides, venoms, bones, essences and metals among other things.
+</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Communities" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378359.58" ts_lastsave="1527378452.56" unique_id="35">
+			<rich_text>Communities are places where a group of people have settled down and come in a variety of sizes. Depending on the size, the community will have a varying amount of inhabitants and different facilities / tradesmen corresponding to the increased needs of a larger city. For example, a Castle will likely have a garrison of soldiers to protect them from outside threats, while a small town might instead have a ragtag gang of militia policing the streets doling out their own brand of justice.
+
+Along the same route, different sizes of cities will have different problems when it comes to beasts and monsters. Where a small village might have issues with a pack of darkhounds stealing their young once in awhile, a sprawling city would have enough protection from that kind of attacks but will likely instead have issues with far more subtle beings. Maybe a succubus abusing the desperate in the slum quarters or a vampire has taken guise as a noble presiding over the town, preying on the inhabitants in the dead of the night. These last two would be unlikely to encounter in smaller communities, since the tight-knitted social aspect wouldn’t leave them the option to disappear in the crowd or able to quietly clean away their victims.
+</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Hamlet" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378368.51" ts_lastsave="1527378401.33" unique_id="36">
+				<rich_text>Population: 10-60
+
+No real stores or place of trade, as the inhabitants carry out such tasks in a nearby settlement large enough to support their presence.
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Village" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378377.46" ts_lastsave="1527378408.54" unique_id="37">
+				<rich_text>Population: 50-400
+
+Has the populace to support basic trade and craftsmanship. A smith, tannery, lumber mill or similar buildings can be found here, maybe even more than one. Also has a small market connected to the main thoroughfare that sees some traffic during the days. An Inn and/or tavern is found not far from there.
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Town" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378381.42" ts_lastsave="1527378415.24" unique_id="38">
+				<rich_text>Population: 300-900
+
+Towns feature a plentitude of places of trade and crafts. The market, inn and tavern see business from dawn until dusk,
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="City" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378384.5" ts_lastsave="1527378422.26" unique_id="39">
+				<rich_text>Population: 800-1600
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Castle" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378389.13" ts_lastsave="1527378429.38" unique_id="40">
+				<rich_text>Population: 1500+
+
+A Castle is rarely only the grounds guarded by walls and towers, but also feature an accompanying city sprawled out around it, with farmlands surrounding that.
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Garrison" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378392.84" ts_lastsave="1527378436.88" unique_id="41">
+				<rich_text>Population: 50+
+
+A Garrison is a military outpost and features minimal services for the player, but most likely has good information about nearby available Pledges or what monsters are roaming the area.
+</rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Points of Interest" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378452.56" ts_lastsave="1527378535.63" unique_id="42">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Market" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378461.89" ts_lastsave="1527378514.12" unique_id="43">
+				<rich_text>The market is where craftsmen and travellers congregate to peddle wares and exchange services. The size of a market depends on the size of the settlement its located in and its location relative to surrounding settlements.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Inn" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378464.45" ts_lastsave="1527378505.73" unique_id="44">
+				<rich_text>Inns house weary travellers on their way through the settlement or for the duration of their stay. Some Inns feature bars and can be good places to meet new folks and get hints about the surrounding area.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="General Store" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378471.2" ts_lastsave="1527378502.38" unique_id="45">
+				<rich_text>This is the first place any player will visit when they are in search of food, travelling supplies or minor trinkets and gadgets.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Tavern" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378476.76" ts_lastsave="1527378498.53" unique_id="46">
+				<rich_text>The Tavern is the main social hub for most settlements and as such are the best bet for finding Pledges.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Smith" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378478.7" ts_lastsave="1527378494.56" unique_id="47">
+				<rich_text>The Smith provides the ability to order the creation of items or can carry out repairs to the player’s gear.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Tannery" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378483.6" ts_lastsave="1527378489.74" unique_id="48">
+				<rich_text>A good location to sell hides gathered from Hunts and can also curate them for the player. Some Tanneries provide leathercrafting services and can craft armors, containers or similar items for the player.</rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Items, Bodymods etc" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378535.63" ts_lastsave="1527378540.5" unique_id="49">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Gear" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378540.5" ts_lastsave="1527378732.97" unique_id="50">
 				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Containers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378732.97" ts_lastsave="1527378810.41" unique_id="77">
+					<rich_text></rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Bag" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378810.41" ts_lastsave="1527378814.04" unique_id="90">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Rucksack" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378814.04" ts_lastsave="1527378816.92" unique_id="91">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Purse" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378816.93" ts_lastsave="1527378819.15" unique_id="92">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Locket" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378819.17" ts_lastsave="1527378819.17" unique_id="93">
+						<rich_text></rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Jewelry" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378738.74" ts_lastsave="1527378790.01" unique_id="78">
+					<rich_text></rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Ring" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378790.01" ts_lastsave="1527378794.8" unique_id="87">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Necklace" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378799.68" ts_lastsave="1527378802.06" unique_id="88">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Piercing" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378802.06" ts_lastsave="1527378802.06" unique_id="89">
+						<rich_text></rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Armor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378742.35" ts_lastsave="1527378778.19" unique_id="79">
+					<rich_text></rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Leather" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378778.19" ts_lastsave="1527378780.15" unique_id="84">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Hide" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378780.17" ts_lastsave="1527378780.75" unique_id="85">
+						<rich_text>
+</rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Chain" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378784.8" ts_lastsave="1527378784.8" unique_id="86">
+						<rich_text></rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Trinket" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378747.27" ts_lastsave="1527378750.26" unique_id="80">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Consumable" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378750.26" ts_lastsave="1527378754.13" unique_id="81">
+					<rich_text></rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Potion" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378760.95" ts_lastsave="1527378768.8" unique_id="82">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Drugs" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378768.8" ts_lastsave="1527378768.8" unique_id="83">
+						<rich_text></rich_text>
+					</node>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Weapons" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378546.68" ts_lastsave="1527378630.54" unique_id="51">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Primitive" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378630.54" ts_lastsave="1527378696.33" unique_id="59">
+					<rich_text></rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Sword" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378696.34" ts_lastsave="1527378698.88" unique_id="71">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Mace" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378698.88" ts_lastsave="1527378701.54" unique_id="72">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Spear" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378701.54" ts_lastsave="1527378704.87" unique_id="73">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Staff" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378704.87" ts_lastsave="1527378719.3" unique_id="74">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Bows" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378707.49" ts_lastsave="1527378712.53" unique_id="75">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Crossbow" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378712.53" ts_lastsave="1527378712.53" unique_id="76">
+						<rich_text></rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Modern" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378633.13" ts_lastsave="1527378657.87" unique_id="60">
+					<rich_text></rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Gunpowder" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378657.87" ts_lastsave="1527378676.04" unique_id="64">
+						<rich_text></rich_text>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Handcannon" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378676.05" ts_lastsave="1527378681.35" unique_id="67">
+							<rich_text></rich_text>
+						</node>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Blunderbuss" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378681.35" ts_lastsave="1527378683.61" unique_id="68">
+							<rich_text></rich_text>
+						</node>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Rifle" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378683.61" ts_lastsave="1527378686.33" unique_id="69">
+							<rich_text></rich_text>
+						</node>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Bomb" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378686.33" ts_lastsave="1527378686.33" unique_id="70">
+							<rich_text></rich_text>
+						</node>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Mechanical" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378661.09" ts_lastsave="1527378666.8" unique_id="65">
+						<rich_text></rich_text>
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Springloaded" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378666.8" ts_lastsave="1527378670.3" unique_id="66">
+							<rich_text></rich_text>
+						</node>
+					</node>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Occult" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378639.15" ts_lastsave="1527378647.03" unique_id="61">
+					<rich_text></rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Soul Prison" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378647.04" ts_lastsave="1527378650.91" unique_id="62">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Witch Stick" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378650.91" ts_lastsave="1527378650.91" unique_id="63">
+						<rich_text></rich_text>
+					</node>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Bodymods" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378553.16" ts_lastsave="1527378566.36" unique_id="52">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Tattoos" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378566.36" ts_lastsave="1527378570.41" unique_id="54">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Implants" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378570.41" ts_lastsave="1527378578.64" unique_id="55">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Prosthetics" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378578.65" ts_lastsave="1527378592.93" unique_id="56">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Witchcraft" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378556.76" ts_lastsave="1527378607.38" unique_id="53">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Rot Maggots" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378607.38" ts_lastsave="1527378611.0" unique_id="57">
+					<rich_text>Push a fistful of rot maggots into yourself or another being, dealing damage or healing wounds.</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Goddess' Sight" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527378618.12" ts_lastsave="1527378621.88" unique_id="58">
+					<rich_text>Gain true sight of your immediate surroundings, piercing walls and covering a 360 degree area.</rich_text>
+				</node>
 			</node>
 		</node>
 	</node>
