@@ -30,10 +30,10 @@ Every expedition sent out will eventually succumb to the harsh environment, dead
 			<rich_text>The game is turn-based, with one turn representing one day.
 
 During each turn, the player can perform any combination af actions up to a maximum amount based on the time they take to perform.</rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Turn Actions" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428284.23" ts_lastsave="1527428439.37" unique_id="17">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Turn Actions" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428284.23" ts_lastsave="1527428635.54" unique_id="17">
 				<rich_text>All actions take an amount of time based on how proficient the party is at performing them.
 
-For example, having a party that excels at hunting game but has no members</rich_text>
+For example, having a party that excels at hunting game, but has no members worth their salt when it comes to construction, would be better off spending their days hunting and hiring the help to construct their camp from locals.</rich_text>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Travel" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428293.48" ts_lastsave="1527428300.46" unique_id="18">
 					<rich_text></rich_text>
 				</node>
@@ -63,7 +63,7 @@ For example, having a party that excels at hunting game but has no members</rich
 				</node>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="World Generation" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428069.22" ts_lastsave="1527428177.87" unique_id="4">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="World Generation" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428069.22" ts_lastsave="1527429579.01" unique_id="4">
 			<rich_text>When a player has sent out an exploration, the entire world they arrive at is randomly generated, with some exceptions as described in the Exploration section.</rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Biomes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428087.07" ts_lastsave="1527428129.59" unique_id="5">
 				<rich_text></rich_text>
@@ -96,6 +96,31 @@ For example, having a party that excels at hunting game but has no members</rich
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Point of Interest" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428169.51" ts_lastsave="1527428169.51" unique_id="15">
 					<rich_text></rich_text>
+				</node>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Exploration" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527429695.98" ts_lastsave="1527429695.98" unique_id="28">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Explorer's Log" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527429579.01" ts_lastsave="1527429698.11" unique_id="27">
+				<rich_text>During an expedition, the player will be able to spend a turn noting down things in their Explorer’s Log. Doing so will open up a menu displaying all notable features in the immediate area, these include;
+
+• Terrain Type (Forest, steppe, jungle, swamp, mountainous et.c)
+
+• Features (Ruins, caves, rivers, points of interest et.c)
+
+• Fauna (Type of animals, population amount et.c)
+
+• Native Population (Disposition towards strangers, towns, culture, population et.c)
+
+• And whatever else might be applicable
+
+As taking these notes will take time, the player will have to be critical in when they want to do so, as resources will still drain during the time. This makes it among the most expensive actions a player can take, as they dont do any actual progress on the current expedition, but also has the longest standing impact on the game world, as will be explained in Recording the Explorer's Log.
+</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Recording the Explorer's Log" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527429746.18" ts_lastsave="1527429752.58" unique_id="29">
+					<rich_text>The player can send an envoy of his expedition to return home with the notes that has been made in the Log. Doing this Records the Log, meaning any upcoming expedition sent out will have prior knowledge of whatever has been noted down in the Recorded Logs, making those features appear just as described in the newly randomly generated world.
+
+Note that sending an envoy requires the player to select a small number of explorers that will have to leave the expedition in order to return the log to the Institution. This ensures that the player can only do this a finite number of times and will have to carefully consider when to do so and what personnel to send.
+</rich_text>
 				</node>
 			</node>
 		</node>
