@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<cherrytree>
+	<node custom_icon_id="0" foreground="" is_bold="True" name="Introduction" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527505581.06" ts_lastsave="1527505592.55" unique_id="1">
+		<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Genre" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527505592.55" ts_lastsave="1527506060.5" unique_id="2">
+			<rich_text>To Glory and Beyond is a randomly generated turn-based rogue-lite</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Description" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527505679.14" ts_lastsave="1527506224.6" unique_id="3">
+			<rich_text>In To Glory and Beyond, the player tkaes control of a Party of adventurers on a quest to vanquish the Evil of the land.
+
+A game consists of building a party, setting out on an adventure to defeat an Evil and finally either Victory or Defeat. Regardless of outcome, the game will have lasting impact on the players upcoming attempts.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Presentation and Visuals" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527505907.05" ts_lastsave="1527506289.99" unique_id="4">
+			<rich_text>The game is separated into three different screens, Management, World and Battle.</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Management" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527505950.6" ts_lastsave="1527505953.22" unique_id="5">
+				<rich_text>Management screens are menus where the player assembles parties, read descriptions, shop.
+
+These are done in text boxes with sprite visuals to aid in describing what the player is doing.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="World" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527506044.61" ts_lastsave="1527506571.57" unique_id="6">
+				<rich_text>The World map is a randomly generated grid of square tiles, with each tile having a biome and a possible feature.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Battle" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527506571.57" ts_lastsave="1527506807.76" unique_id="9">
+				<rich_text>When the player enters Battle, they are presented with a new grid of randomly generated tiles.
+
+What kind of tiles depends on where the battle is taking place, with locations such as forests, in a town or inside a dungeon being some examples.</rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Gameplay" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527506289.99" ts_lastsave="1527506295.83" unique_id="7">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="The World Map" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527506306.29" ts_lastsave="1527507339.01" unique_id="8">
+				<rich_text>This map is traversed by the player via an Avatar that represents their Party. They will have random encounters, visit towns, complete quests and prepare in whatever way they can for the Final Confrontation.</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Biomes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527507339.01" ts_lastsave="1527507494.52" unique_id="14">
+					<rich_text></rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Forest" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527507494.52" ts_lastsave="1527507497.58" unique_id="21">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Plains" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527507497.58" ts_lastsave="1527507502.5" unique_id="22">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Water" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527507502.5" ts_lastsave="1527507507.33" unique_id="23">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Mountain" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527507507.33" ts_lastsave="1527507510.43" unique_id="24">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Swamp" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527507510.43" ts_lastsave="1527507510.43" unique_id="25">
+						<rich_text></rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Features" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527507344.6" ts_lastsave="1527507423.23" unique_id="16">
+					<rich_text></rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Town" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527507423.23" ts_lastsave="1527507434.59" unique_id="17">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Ruins" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527507434.59" ts_lastsave="1527507439.2" unique_id="18">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Bridge" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527507439.2" ts_lastsave="1527507489.08" unique_id="19">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Point of Interest" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527507489.08" ts_lastsave="1527507527.22" unique_id="20">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Cemetery" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527507527.22" ts_lastsave="1527507539.5" unique_id="26">
+						<rich_text></rich_text>
+					</node>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Battle" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527506907.95" ts_lastsave="1527506960.57" unique_id="10">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Setup" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527506957.24" ts_lastsave="1527530093.21" unique_id="11">
+					<rich_text>When battle begins, the player first gets to set up their party on the battle map.
+
+There are different states the player can be brought into battle in; Ambush!, Surrounded! and Confrontation!.
+
+The enemy characters are always shown to be placed on the grid before the player has to deploy their own party.</rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Ambush!" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527507040.92" ts_lastsave="1527508427.68" unique_id="12">
+						<rich_text>If the encounter is an Ambush!, the enemy has to deploy in the center of the battleground, while the player can deploy anywhere along the perimeter of the arena.</rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Surrounded!" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527507044.13" ts_lastsave="1527508444.03" unique_id="13">
+						<rich_text>The opposite of Ambush!. The player has to deploy their group near the center of the arena while the enemy can be found surrounding them.</rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Confrontation!" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527507056.82" ts_lastsave="1527508483.58" unique_id="15">
+						<rich_text>In a Confrontation!, both parties are located on opposite sides of the battleground.</rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Turn Breakdown" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527530093.21" ts_lastsave="1527537758.49" unique_id="27">
+					<rich_text>The battle is played out in a turn order, with each turn divided into three distinct phases; Enemy Turn, Player Turn, Turn Resolution
+
+
+with the opponent beginning each turn by moving their characters and preparing their attack.
+
+This is followed by the player acting out their entire turn, moving their party and attacking/casting spells/activating abilities.
+
+After the player is done, all enemy characters resolve their attacks and abilities in their designated order.</rich_text>
+				</node>
+			</node>
+		</node>
+	</node>
+</cherrytree>
