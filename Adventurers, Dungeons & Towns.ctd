@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<cherrytree>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Adventurers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1529881859.98" ts_lastsave="1529881980.2" unique_id="1">
+		<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Stats and Types" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1529881980.2" ts_lastsave="1529882262.36" unique_id="6">
+			<rich_text>Name
+Age
+Class
+Origin
+Faction
+Guild
+Relations (Friends, family etc)
+Drive/Goal (Money, fame, murder etc)
+Personality
+Quirks and Perks
+Skills
+</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Classes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1529882318.26" ts_lastsave="1529882324.37" unique_id="7">
+				<rich_text></rich_text>
+			</node>
+		</node>
+	</node>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Village" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1529881869.46" ts_lastsave="1529881873.2" unique_id="2">
+		<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Shops" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1529881873.2" ts_lastsave="1529881896.19" unique_id="3">
+			<rich_text></rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Production" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1529881896.19" ts_lastsave="1529881968.07" unique_id="4">
+			<rich_text></rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Villagers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1529881971.17" ts_lastsave="1529882343.25" unique_id="5">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Questgivers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1529882351.76" ts_lastsave="1529882443.62" unique_id="8">
+				<rich_text>Anything from a farmer requesting sheepguards to a noble asking for the ehad of his rival.
+
+The richer the town the more grand and prestigious are the questgivers in it. Farmers are common from basic levels while a nobleman would require his own manor in order to settle in.</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Farmer" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1529882518.0" ts_lastsave="1529882526.98" unique_id="12">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Guardsman" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1529882526.98" ts_lastsave="1529882529.42" unique_id="13">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Noble" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1529882529.42" ts_lastsave="1529882529.42" unique_id="14">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Craftsmen" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1529882356.47" ts_lastsave="1529882652.71" unique_id="9">
+				<rich_text>Provides shops with anything from weapons and armor to scrolls of magic, potions or reagents.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Shopkeepers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1529882366.93" ts_lastsave="1529882704.49" unique_id="10">
+				<rich_text>Sells the wares that the town provides and buys forma d</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Guards" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1529882370.69" ts_lastsave="1529882370.69" unique_id="11">
+				<rich_text></rich_text>
+			</node>
+		</node>
+	</node>
+</cherrytree>
