@@ -22,9 +22,9 @@ Tales speak of it as early as</rich_text>
 			<rich_text></rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="True" name="Deities" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924532.3" ts_lastsave="1527036695.3" unique_id="58">
 				<rich_text></rich_text>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Jorvall" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527036695.31" ts_lastsave="1527036698.48" unique_id="88">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Jorvall" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527036695.31" ts_lastsave="1527377313.65" unique_id="88">
 					<rich_text>Saint Jorvall, founder of the Jorvall Empire.
-Not an acitve deity, Jorvall is worshipped throughout his empire as the quintessential role model and person that everyone should aspire to be more alike.</rich_text>
+Not an acitve deity but rather a martyr, Jorvall is worshipped throughout his empire as the quintessential role model and person that everyone should aspire to be more alike.</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="The God Shroom" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527035938.32" ts_lastsave="1527036612.75" unique_id="87">
 					<rich_text>Mother, Father, God Shroom, He Who Lives Within. Some of the names ascribed to this massive growth in the middle of an unnamed swamp far away from any greater civilization.
@@ -192,19 +192,20 @@ Home of the </rich_text>
 					<rich_text>
 </rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="The Barren Fields" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920346.32" ts_lastsave="1527008400.34" unique_id="44">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Barren Fields" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920346.32" ts_lastsave="1527201000.24" unique_id="44">
 					<rich_text>A vast wasteland covering the central part of </rich_text>
 					<rich_text link="node 41">Larannia</rich_text>
 					<rich_text>.
-Home to the majority of </rich_text>
+Home to a vast range of </rich_text>
 					<rich_text link="node 15">Gori'Lak</rich_text>
 					<rich_text> tribes.</rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="The Bonelands" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920330.88" ts_lastsave="1527008415.18" unique_id="43">
-					<rich_text>A smaller continent off the coast of </rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="The Bonelands" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920330.88" ts_lastsave="1527200972.07" unique_id="43">
+					<rich_text>A pair of smaller continents off the coast of </rich_text>
 					<rich_text link="node 41">Larannia</rich_text>
-					<rich_text>, partway out in the </rich_text>
+					<rich_text>, partway out into the </rich_text>
 					<rich_text link="node 39">Sea of Giants</rich_text>
+					<rich_text>.</rich_text>
 				</node>
 				<node custom_icon_id="0" foreground="" is_bold="False" name="The Cloudlands" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526920524.44" ts_lastsave="1527014648.14" unique_id="48">
 					<rich_text>The land of the </rich_text>
@@ -328,8 +329,9 @@ Utilizing extreme levels of mental fortitude and knowledge of the internal machi
 			<node custom_icon_id="0" foreground="" is_bold="False" name="The Material Realm" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924257.27" ts_lastsave="1527066836.77" unique_id="54">
 				<rich_text></rich_text>
 			</node>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="The Soul Sea" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924264.05" ts_lastsave="1527066843.17" unique_id="55">
-				<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="The Soul Sea" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526924264.05" ts_lastsave="1531263267.35" unique_id="55">
+				<rich_text>A plane of energy that permeates all of existance, any living organism borrows their energy from the Sea for the duration of their life.
+This energy is most commonly referred to as a being's Soul, and is from where they draw their ability to feel emotions and, in the case of soulcerers, influence reality by tapping into and manipulating the Soul Sea that flows around them.</rich_text>
 			</node>
 		</node>
 		<node custom_icon_id="0" foreground="" is_bold="True" name="Races" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526554165.75" ts_lastsave="1526925839.2" unique_id="2">
@@ -358,8 +360,14 @@ Once created by the Alaari, they were beset upon the task of helping the Alaari 
 								<rich_text>Humans are the favored creations of the Alaari. Resourceful, ingenious and stubborn, they have found ways to survive every single age since their creation, and never even coming close to extinction. They know when to hold their heads low and stick to the sidelines of history, but also when its their time to step out into the sunlight and claim their lands and lives from those who would oppress them.
 
 Most of the civilizations of the current world are humans or direct descendants of them. From the stoic Jorvallans, to the secretive Nurn and the cloud-scaping Esteraí, humanity in one form or another can be found wherever you go.</rich_text>
-								<node custom_icon_id="0" foreground="" is_bold="False" name="Dreamers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527200603.51" ts_lastsave="1527200606.29" unique_id="95">
-									<rich_text></rich_text>
+								<node custom_icon_id="0" foreground="" is_bold="False" name="Dreamers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527200603.51" ts_lastsave="1527377170.35" unique_id="95">
+									<rich_text>Reality Shapers
+
+Their dreams manifest in the real world.
+
+Hunted relentlessly due to their ability to destroy and shape the world.
+
+Lucid Dreamers are practically unheard of, but the few that have been known have left the world, or created their own new one to mold and shape to their liking.</rich_text>
 								</node>
 								<node custom_icon_id="0" foreground="" is_bold="False" name="Gori'Lak" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556325.76" ts_lastsave="1527015492.99" unique_id="15">
 									<rich_text>The Gori'Lak are tribal nomads, with a naming convention of placing the name of the tribe first, followed by the name of the individual. Feyen'Tac for example is “Tac of tribe Feyen”. Gori'Lak can be roughly translated as “Tribe of All” and is a word for referencing all tribes. Other names for them are Beastmen, Accursed Ones and Freakbands to name a few.
@@ -423,17 +431,27 @@ These sentient trees migrate slowly across the lands, drinking their path dry an
 					</node>
 					<node custom_icon_id="0" foreground="" is_bold="False" name="Jaavel" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526555846.56" ts_lastsave="1527033912.38" unique_id="5">
 						<rich_text>Set upon the task to prevent stagnation and the weakness and complacency of the inhabitants of the world, the Jaavel strived to create conflict and struggle wherever they could. This was not in order to destroy the world, but to temper its denizens in the harsh flames of pain, depravity and conflict to ensure that stagnation and complacency did not wring their cold hands around the world.</rich_text>
-						<node custom_icon_id="0" foreground="" is_bold="False" name="Draegir" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526554204.8" ts_lastsave="1527032769.88" unique_id="3">
-							<rich_text>Dragon-Kin
-Reptilian
-Seek to dominate others and bend the land to their will
-</rich_text>
-							<node custom_icon_id="0" foreground="" is_bold="False" name="Saurii" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527032769.89" ts_lastsave="1527032771.32" unique_id="85">
+						<node custom_icon_id="0" foreground="" is_bold="False" name="Draegir" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526554204.8" ts_lastsave="1531263567.49" unique_id="3">
+							<rich_text>The Draegir are massive reptilian creatures.
+
+Most are capable of flight, spurting a wingspan that can put entire towns, and in some cases cities, in their shade when they pass by.
+
+Each Draegir is a wholly unique being with size, behaviour, goals, abilities and allegiances varying wildly between individuals.
+
+They have no natural limit to their lifespan, but also cannot reproduce. This means that the ones created at the birth of their species are all there is, and with time they have become more and more secluded, keeping to their own and rarely meddling in the affairs of mortals.
+
+Cults, societies and followings are centered around these beings throughout the land, and while most Draegir see these as troublesome or annoying, there are those that thrive on the worship and adoration they receive fromt heir supplicants.
+
+Draegir are sex-less and conform to no hierarchy or higher power. They are the Apex Predators of the world, with no natural enemies or dangers other than arguably the leviathans of the deep seas. These pose little threat however as the Draegir seldom have reason to stray near their terretories.</rich_text>
+							<node custom_icon_id="0" foreground="" is_bold="False" name="Saurii" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527032769.89" ts_lastsave="1531263383.85" unique_id="85">
 								<rich_text>The Sauri are non-magical descendants of the Draegir.
+
+With the Draegir being unnable to bring new members of their own family into being, they have instead crafted these lesser creatures.
+Born from failed experiments, attempts of reproduction
 
 Having lost their connection to the Soul Sea, and their mind regressing from sentience to a more primal and ferocious stage, the Saurii are instead physical monstrocities. The Ki-Tung of the larger specimens is immense, with some barely able to contain it, unleashing waves of force into the ground with every single step.
 
-They come in all manner of different forms, sizes and social structures, from skittering pack hunters to towering alpha predators. Most commonly found in the Hestrian Pit, but also on rare occasions they can be sighted throughout the land.
+They come in all manner of different forms, sizes and social structures, from skittering pack hunters to towering alpha predators. Most commonly found in the Hestrian Pit, but can also, on rare occasions, be sighted throughout the land.
 
 </rich_text>
 							</node>
@@ -445,10 +463,18 @@ They come in all manner of different forms, sizes and social structures, from sk
 Omnivores
 Workers</rich_text>
 							</node>
-							<node custom_icon_id="0" foreground="" is_bold="False" name="Thacka" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556141.86" ts_lastsave="1526920008.14" unique_id="9">
-								<rich_text>Trolls
-Warriors
-Fiercly cultural and xenophobic</rich_text>
+							<node custom_icon_id="0" foreground="" is_bold="False" name="Thacka" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1526556141.86" ts_lastsave="1531264168.61" unique_id="9">
+								<rich_text>The Thacka were brutal tribal humanoids that lead savage campaigns of war in past ages.
+
+More constructs than biological beings, they were born and tempered in fire, with said fire being a major focalpoint to them culturally.
+
+They had an extremely strict hierarchy, with tribe members only ever socializing with members of their own caste and only taking orders from the caste above them.
+
+Fiercly xenophobic, they saw all other races as either annoyances to rid themselves of or potential adversaries to test and sharpen their wit of war.
+
+Their sole method of reproducing were to burn dead combatants in grand War Pyres, where they laden their corpses with offerings. Wargear, foods, works of art and anything of any semblence of value is added to the bonfire during the ritual.
+
+After the fires die out, from the ashes a new set of Thacka will emerge. The higher the quality of the dead and the offerings added to the flames, the more powerful these new tribes members will be. Immediately on their emergence, they are given weapons and equipment in preparation for the recalibration of the tribe's hierarchy. What follows is best described as a blood sport, where the goal is to subdue, but not kill, as many of their brethren as they can before the last embers in the dying pyres die out. Killing another memb</rich_text>
 							</node>
 						</node>
 					</node>

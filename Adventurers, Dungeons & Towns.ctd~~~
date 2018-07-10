@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<cherrytree>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Adventurers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1529881859.98" ts_lastsave="1529881980.2" unique_id="1">
+		<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Stats and Types" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1529881980.2" ts_lastsave="1529881994.02" unique_id="6">
+			<rich_text>Name
+Age
+Class
+Origin
+Drive/Goal (Money, fame, murder etc)
+Personality
+Quirks and Perks
+</rich_text>
+		</node>
+	</node>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Village" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1529881869.46" ts_lastsave="1529881873.2" unique_id="2">
+		<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Shops" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1529881873.2" ts_lastsave="1529881896.19" unique_id="3">
+			<rich_text></rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Production" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1529881896.19" ts_lastsave="1529881968.07" unique_id="4">
+			<rich_text></rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Villagers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1529881971.17" ts_lastsave="1529881971.17" unique_id="5">
+			<rich_text></rich_text>
+		</node>
+	</node>
+</cherrytree>
