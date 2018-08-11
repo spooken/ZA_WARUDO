@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<cherrytree>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Characters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533499163.65" ts_lastsave="1533499163.65" unique_id="1">
+		<rich_text></rich_text>
+	</node>
+</cherrytree>
