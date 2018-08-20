@@ -1,0 +1,398 @@
+<?xml version="1.0" ?>
+<cherrytree>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Typings" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533942882.75" ts_lastsave="1533944031.8" unique_id="1">
+		<rich_text justification="left"></rich_text>
+		<rich_text>
+</rich_text>
+		<table char_offset="0" col_max="400" col_min="40">
+			<row>
+				<cell></cell>
+				<cell>Defender</cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+			</row>
+			<row>
+				<cell>Attacker</cell>
+				<cell></cell>
+				<cell>Normal</cell>
+				<cell>Strange</cell>
+				<cell>Order</cell>
+				<cell>Chaos</cell>
+				<cell>Fire</cell>
+				<cell>Metal</cell>
+				<cell>Air</cell>
+				<cell>Earth</cell>
+				<cell>Water</cell>
+				<cell>Life</cell>
+				<cell>Death</cell>
+				<cell>Light</cell>
+				<cell>Dark</cell>
+			</row>
+			<row>
+				<cell></cell>
+				<cell>Normal</cell>
+				<cell>1x</cell>
+				<cell>½x</cell>
+				<cell>½x</cell>
+				<cell>2x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+			</row>
+			<row>
+				<cell></cell>
+				<cell>Strange</cell>
+				<cell>½x</cell>
+				<cell>0x</cell>
+				<cell>0x</cell>
+				<cell>0x</cell>
+				<cell>0x</cell>
+				<cell>0x</cell>
+				<cell>0x</cell>
+				<cell>0x</cell>
+				<cell>0x</cell>
+				<cell>0x</cell>
+				<cell>0x</cell>
+				<cell>0x</cell>
+				<cell>0x</cell>
+			</row>
+			<row>
+				<cell></cell>
+				<cell>Order</cell>
+				<cell>½x</cell>
+				<cell>0x</cell>
+				<cell>½x</cell>
+				<cell>2x</cell>
+				<cell>½x</cell>
+				<cell>½x</cell>
+				<cell>½x</cell>
+				<cell>½x</cell>
+				<cell>½X</cell>
+				<cell>½x</cell>
+				<cell>½x</cell>
+				<cell>½x</cell>
+				<cell>½x</cell>
+			</row>
+			<row>
+				<cell></cell>
+				<cell>Chaos</cell>
+				<cell>2x</cell>
+				<cell>0x</cell>
+				<cell>2x</cell>
+				<cell>4x</cell>
+				<cell>2x</cell>
+				<cell>2x</cell>
+				<cell>2x</cell>
+				<cell>2x</cell>
+				<cell>2x</cell>
+				<cell>2x</cell>
+				<cell>2x</cell>
+				<cell>2x</cell>
+				<cell>2x</cell>
+			</row>
+			<row>
+				<cell></cell>
+				<cell>Fire</cell>
+				<cell>1x</cell>
+				<cell>0x</cell>
+				<cell>½x</cell>
+				<cell>2x</cell>
+				<cell>½x</cell>
+				<cell>2x</cell>
+				<cell>1x</cell>
+				<cell>½x</cell>
+				<cell>0x</cell>
+				<cell>2x</cell>
+				<cell>0x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+			</row>
+			<row>
+				<cell></cell>
+				<cell>Metal</cell>
+				<cell>1x</cell>
+				<cell>0x</cell>
+				<cell>½x</cell>
+				<cell>2x</cell>
+				<cell>½x</cell>
+				<cell>½x</cell>
+				<cell>2x</cell>
+				<cell>2x</cell>
+				<cell>½x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+			</row>
+			<row>
+				<cell></cell>
+				<cell>Air</cell>
+				<cell>1x</cell>
+				<cell>0x</cell>
+				<cell>½x</cell>
+				<cell>2x</cell>
+				<cell>-1x</cell>
+				<cell>½x</cell>
+				<cell>½x</cell>
+				<cell>2x</cell>
+				<cell>2x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+			</row>
+			<row>
+				<cell></cell>
+				<cell>Earth</cell>
+				<cell>1x</cell>
+				<cell>0x</cell>
+				<cell>½x</cell>
+				<cell>2x</cell>
+				<cell>2x</cell>
+				<cell>½x</cell>
+				<cell>0x</cell>
+				<cell>½x</cell>
+				<cell>2x</cell>
+				<cell>1x</cell>
+				<cell>2x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+			</row>
+			<row>
+				<cell></cell>
+				<cell>Water</cell>
+				<cell>1x</cell>
+				<cell>0x</cell>
+				<cell>½x</cell>
+				<cell>2x</cell>
+				<cell>2x</cell>
+				<cell>2x</cell>
+				<cell>½x</cell>
+				<cell>-1x</cell>
+				<cell>½x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+			</row>
+			<row>
+				<cell></cell>
+				<cell>Life</cell>
+				<cell>1x</cell>
+				<cell>0x</cell>
+				<cell>½x</cell>
+				<cell>2x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>½x</cell>
+				<cell>½x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+			</row>
+			<row>
+				<cell></cell>
+				<cell>Death</cell>
+				<cell>1x</cell>
+				<cell>0x</cell>
+				<cell>½x</cell>
+				<cell>2x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>2x</cell>
+				<cell>½x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+			</row>
+			<row>
+				<cell></cell>
+				<cell>Light</cell>
+				<cell>1x</cell>
+				<cell>0x</cell>
+				<cell>½x</cell>
+				<cell>2x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>½x</cell>
+				<cell>½x</cell>
+			</row>
+			<row>
+				<cell></cell>
+				<cell>Dark</cell>
+				<cell>1x</cell>
+				<cell>0x</cell>
+				<cell>½x</cell>
+				<cell>2x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>1x</cell>
+				<cell>½x</cell>
+				<cell>½x</cell>
+			</row>
+			<row>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+				<cell></cell>
+			</row>
+		</table>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Normal" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533942945.86" ts_lastsave="1533943033.79" unique_id="2">
+			<rich_text>Normal Beings are the regular denizens of the world.
+
+They interact regularly with most other Typings and neither deal nor receive more or less damage to the vast majority.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Strange" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533942958.71" ts_lastsave="1533943208.5" unique_id="3">
+			<rich_text>Strage Beings are not of this world.
+
+They rarely interact with other Typings at all, only at a reduced capacity with the most regular ones.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Order" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533942962.47" ts_lastsave="1533943221.21" unique_id="4">
+			<rich_text>Order represents stability and stagnation.
+
+They react poorly with all other Typings, dragging out engagements and stalling for time.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Chaos" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533942964.97" ts_lastsave="1533943285.8" unique_id="5">
+			<rich_text>Chaos is unpredicatble and explosive.
+
+They deal and receive exorberant amounts of damage, and battles with them are usually over very quick, one way or the other.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Fire" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533942967.95" ts_lastsave="1533943646.28" unique_id="6">
+			<rich_text>Fire is wild, energetic and turbulent.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Metal" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533942970.22" ts_lastsave="1533943677.71" unique_id="7">
+			<rich_text>Metal is stale, slow and durable.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Air" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533942972.68" ts_lastsave="1533943686.6" unique_id="8">
+			<rich_text>Air is quick and precise.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Earth" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533942975.41" ts_lastsave="1533943844.95" unique_id="9">
+			<rich_text>Earth is overwhelming, persistant and tough.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Water" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533942978.13" ts_lastsave="1533943878.27" unique_id="10">
+			<rich_text>Water is lively, flexible and cleansing.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Life" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533942980.58" ts_lastsave="1533943899.83" unique_id="11">
+			<rich_text>Life is about invigorating and boosting.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Death" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533942985.78" ts_lastsave="1533943933.51" unique_id="12">
+			<rich_text>Death focuses on decay, debilitation and death.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Light" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533942987.88" ts_lastsave="1533943962.13" unique_id="13">
+			<rich_text>Light is radiant, inspiring, positive and revealing.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Dark" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533942989.76" ts_lastsave="1533944000.61" unique_id="14">
+			<rich_text>Dark is subterfuge, plots and secrecy.</rich_text>
+		</node>
+	</node>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Combat" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533944031.8" ts_lastsave="1533944390.87" unique_id="15">
+		<rich_text>Turn based.
+
+During a players turn they can Attack, Switch, use an Item or Escape.</rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Attack" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533944106.11" ts_lastsave="1533944311.77" unique_id="16">
+			<rich_text>The player chooses to Attack.
+
+They are presented with a menu of available moves by their current combatant.
+
+</rich_text>
+			<rich_text justification="left"></rich_text>
+			<rich_text>
+
+After selecting an ability, that turn resolves.</rich_text>
+			<encoded_png char_offset="110">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</encoded_png>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Attack Resolution" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533944343.68" ts_lastsave="1533944394.21" unique_id="20">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Who goes first?" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533944380.71" ts_lastsave="1533944399.05" unique_id="21">
+					<rich_text>Whichever Combatant has the highest Speed resolves their move first.</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="How much damage is dealt?" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533944422.2" ts_lastsave="1533945583.57" unique_id="22">
+					<rich_text>In order to calculate how much damage an attack deals, a couple of factors are taken into account.
+
+The Attacker's Typing(s)
+The Typing(s) of the Attack
+The Defender's Typing(s)
+The Attack Stat of the Attacker
+The Defense Stat of the Defender
+
+Lets say the Attacker is a Fire type with 150 Attack, the Attack is Fire type that deals 100 damage and the defender is Earth type with 75 Defense.
+
+Typing Check: Fire has an offensive multiplier against Earth of ½x.
+
+So, since the attack is Fire and the attack is Fire, the total multiplier would be: 100 damage x 0.5 x 0.5 = 25 damage.
+
+Stat Check: The Attacker has 150 Attack to the Defenders 75 Defense. Divide the Attack by the Defense to get a factor of 2.
+
+Multiply the Damage of the Attack by the result of the Stat Check: 25 x 2 = 50
+
+The attack deals 50 damage.
+
+As a more complex example;
+
+The Attacker is a Chaos Fire type with 164 Attack, the Attack is a Water type that deals 120 damage and the Defender is Metal Death with 145 Defense.
+
+Begin with checking each Offensive typing by itself against all of the Defender's typings.
+
+Typing Check: Chaos deals 2x damage to both Metal and Death. Take the average of these, in this case both are the same so its 2x. next Fire deals 2x to Metal, but 0x to Death, leaving the average at 1x. Take the average of both of these results to get 1.5x. The attack is Water. Water is 2x to Metal and 1x to Death, averaging to 1.5x. Finally take the average of the results from the Attacker's typing check and the Attack's typing check, resulting in 1.5x. Multiply the Attack's damage by this to get 180 Damage.
+
+Now divide the Attack stat by the Defense stat (round out to 2 decimals): 164 / 145 = 1.13
+
+Multiply the damage by the result of the Stat Check; 180 damage * 1.13 = 203.4 Damage dealt.
+
+
+
+While this could seem overwhelming to keep in mind, it is eased</rich_text>
+				</node>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Switch" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533944109.12" ts_lastsave="1533944113.91" unique_id="17">
+			<rich_text></rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Use an Item" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533944122.63" ts_lastsave="1533944126.43" unique_id="18">
+			<rich_text></rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Escape" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533944126.43" ts_lastsave="1533944126.43" unique_id="19">
+			<rich_text></rich_text>
+		</node>
+	</node>
+</cherrytree>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<cherrytree>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Introduction" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533503032.9" ts_lastsave="1533503856.48" unique_id="4">
+		<rich_text>Side-scrolling Platformer
+
+Influenced by Mega Man and the Metroid series.
+
+The player is told that they are a Special Forces Cyborg, sent to quell insurrections and uprisings around the world.
+
+</rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Progression" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533503458.76" ts_lastsave="1533503897.84" unique_id="5">
+			<rich_text>The player begins with an introductory stage, learning basic movement, attacking and enemy behaviours.
+
+Level select screen, able to play a selection of levels in any order they so choose. They are teleported to the levels and are given a very brief summary of what their mission is (ingame reason to run to the right and shoot).
+
+After beating all these levels, the player is taken to the “end game”. A series of levels in order that test the players proficiency with all acquired weapons and upgrades.
+
+After “finishing” the game, the player receives hints that maybe all is not as it seems and there is more to it to be found in the levels they have played through.
+
+The previously apparently disconnected levels are actually strung together in a larger coherent world. The player can find hidden passages to leave the apparent bounderies of the levels and enter “behind the scenes” to reach new challenges, bosses and attempt to unravel the larger plot of the game.</rich_text>
+		</node>
+	</node>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Moving and Attacking" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533503027.95" ts_lastsave="1533503038.39" unique_id="3">
+		<rich_text></rich_text>
+	</node>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Levels" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533502924.66" ts_lastsave="1533502939.37" unique_id="1">
+		<rich_text></rich_text>
+	</node>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Upgrades" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533502939.37" ts_lastsave="1533503027.95" unique_id="2">
+		<rich_text></rich_text>
+	</node>
+</cherrytree>

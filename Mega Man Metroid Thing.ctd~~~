@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<cherrytree>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Introduction" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533503032.9" ts_lastsave="1533503410.13" unique_id="4">
+		<rich_text>Side-scrolling Platformer
+
+Influenced by Mega Man and the Metroid series.
+
+</rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Progression" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533503458.76" ts_lastsave="1533503460.22" unique_id="5">
+			<rich_text>The player begins with an introductory stage, learning basic movement, attacking and enemy behaviours.
+
+Level select screen, able to play a selection of levels in any order they so choose.
+
+</rich_text>
+		</node>
+	</node>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Moving and Attacking" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533503027.95" ts_lastsave="1533503038.39" unique_id="3">
+		<rich_text></rich_text>
+	</node>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Levels" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533502924.66" ts_lastsave="1533502939.37" unique_id="1">
+		<rich_text></rich_text>
+	</node>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Upgrades" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1533502939.37" ts_lastsave="1533503027.95" unique_id="2">
+		<rich_text></rich_text>
+	</node>
+</cherrytree>
