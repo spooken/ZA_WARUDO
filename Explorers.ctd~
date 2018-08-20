@@ -1,27 +1,27 @@
 <?xml version="1.0" ?>
 <cherrytree>
-	<node custom_icon_id="0" foreground="" is_bold="True" name="Introduction" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527427704.57" ts_lastsave="1527428003.15" unique_id="1">
-		<rich_text weight="heavy">Genre</rich_text>
-		<rich_text>
+	<node custom_icon_id="0" foreground="" is_bold="True" name="Introduction" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527427704.57" ts_lastsave="1527439392.84" unique_id="1">
+		<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Description" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428003.15" ts_lastsave="1527439395.22" unique_id="3">
+			<rich_text weight="heavy">Genre</rich_text>
+			<rich_text>
 Strategy, Rogue-lite
 
 </rich_text>
-		<rich_text weight="heavy">High Concept</rich_text>
-		<rich_text>
+			<rich_text weight="heavy">High Concept</rich_text>
+			<rich_text>
 The goal of the game is to simulate the experience of continuously exploring the same continent, with each expedition knowing nothing of the place except what information has been gained through earlier expeditions.
 
 </rich_text>
-		<rich_text weight="heavy">Description</rich_text>
-		<rich_text>
+			<rich_text weight="heavy">Description</rich_text>
+			<rich_text>
 In Explorers the player takes control of a institution in charge of exploring, mapping and colonizing a strange new continent.
 
 This is done via the player putting together a contingent of adventurers to ship to the new land. Upon arriving, the player takes direct control of this group and utilizes them to brave the terrain and wildlife of this peculiar new frontier.
 
 Every expedition sent out will eventually succumb to the harsh environment, deadly predators, disease or lack of resources. When this happens, what knowledge can be retained from the hard work of these brave men is what can be found and recovered from the </rich_text>
-		<rich_text weight="heavy">Explorer’s Logs</rich_text>
-		<rich_text> sent back or recovered from past expeditions.</rich_text>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Description" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428003.15" ts_lastsave="1527428003.15" unique_id="3">
-			<rich_text></rich_text>
+			<rich_text weight="heavy">Explorer’s Logs</rich_text>
+			<rich_text> sent back or recovered from past expeditions.</rich_text>
 		</node>
 	</node>
 	<node custom_icon_id="0" foreground="" is_bold="True" name="Game Mechanics" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527427825.68" ts_lastsave="1527429850.51" unique_id="2">

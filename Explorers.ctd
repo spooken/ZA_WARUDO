@@ -26,10 +26,10 @@ Every expedition sent out will eventually succumb to the harsh environment, dead
 	</node>
 	<node custom_icon_id="0" foreground="" is_bold="True" name="Game Mechanics" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527427825.68" ts_lastsave="1527429850.51" unique_id="2">
 		<rich_text></rich_text>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Game Rythm" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428200.24" ts_lastsave="1527428203.76" unique_id="16">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Game Rythm" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428200.24" ts_lastsave="1534785470.64" unique_id="16">
 			<rich_text>The game is turn-based, with one turn representing one day.
 
-During each turn, the player can perform any combination af actions up to a maximum amount based on the time they take to perform.</rich_text>
+During each turn the player can perform any combination af actions up to a maximum amount based on the time they take to perform.</rich_text>
 			<node custom_icon_id="0" foreground="" is_bold="False" name="Turn Actions" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428284.23" ts_lastsave="1527428635.54" unique_id="17">
 				<rich_text>All actions take an amount of time based on how proficient the party is at performing them.
 
@@ -139,7 +139,7 @@ Note that sending an envoy requires the player to select a small number of explo
 In addition to recording the layout and contents of the continent, the player will also come across strange new technologies, artifacts and individuals that can be sent back home in addition to the recorded logs to reap various kinds of benefits.</rich_text>
 		</node>
 	</node>
-	<node custom_icon_id="0" foreground="" is_bold="False" name="Example Game" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527429850.51" ts_lastsave="1527429857.84" unique_id="32">
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Example Game" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527429850.51" ts_lastsave="1534785595.94" unique_id="32">
 		<rich_text>A first expedition is sent out, they arrive at a desert wasteland with a cliff-covered coast.
 
 They note down that the coast is rocky and tall, but neglect to mention the desert landscape.

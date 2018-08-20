@@ -58,7 +58,13 @@ For example, having a party that excels at hunting game, but has no members wort
 				<node custom_icon_id="0" foreground="" is_bold="False" name="Sleep" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428326.15" ts_lastsave="1527428336.69" unique_id="25">
 					<rich_text></rich_text>
 				</node>
-				<node custom_icon_id="0" foreground="" is_bold="False" name="Fortify" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428336.69" ts_lastsave="1527428336.69" unique_id="26">
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Fortify" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428336.69" ts_lastsave="1527438811.09" unique_id="26">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Explore" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527438811.09" ts_lastsave="1527438815.21" unique_id="33">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Research" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527438815.21" ts_lastsave="1527438815.21" unique_id="34">
 					<rich_text></rich_text>
 				</node>
 			</node>

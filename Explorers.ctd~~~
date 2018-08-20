@@ -24,7 +24,7 @@ Every expedition sent out will eventually succumb to the harsh environment, dead
 			<rich_text></rich_text>
 		</node>
 	</node>
-	<node custom_icon_id="0" foreground="" is_bold="True" name="Game Mechanics" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527427825.68" ts_lastsave="1527428069.22" unique_id="2">
+	<node custom_icon_id="0" foreground="" is_bold="True" name="Game Mechanics" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527427825.68" ts_lastsave="1527429850.51" unique_id="2">
 		<rich_text></rich_text>
 		<node custom_icon_id="0" foreground="" is_bold="False" name="Game Rythm" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527428200.24" ts_lastsave="1527428203.76" unique_id="16">
 			<rich_text>The game is turn-based, with one turn representing one day.
@@ -99,9 +99,9 @@ For example, having a party that excels at hunting game, but has no members wort
 				</node>
 			</node>
 		</node>
-		<node custom_icon_id="0" foreground="" is_bold="False" name="Exploration" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527429695.98" ts_lastsave="1527429695.98" unique_id="28">
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Exploration" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527429695.98" ts_lastsave="1527429814.31" unique_id="28">
 			<rich_text></rich_text>
-			<node custom_icon_id="0" foreground="" is_bold="False" name="Explorer's Log" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527429579.01" ts_lastsave="1527429698.11" unique_id="27">
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Explorer's Log" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527429579.01" ts_lastsave="1527429796.51" unique_id="27">
 				<rich_text>During an expedition, the player will be able to spend a turn noting down things in their Explorer’s Log. Doing so will open up a menu displaying all notable features in the immediate area, these include;
 
 • Terrain Type (Forest, steppe, jungle, swamp, mountainous et.c)
@@ -123,6 +123,34 @@ Note that sending an envoy requires the player to select a small number of explo
 </rich_text>
 				</node>
 			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Random Encounters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527429796.51" ts_lastsave="1527429800.49" unique_id="30">
+				<rich_text>Throughout their journey, the player will encounter a variety of random events, such as landslides, bandits, disease, treasure et.c. Some of these can also be logged and become a mainstay or landmark in the world.</rich_text>
+			</node>
 		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Progression" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527429814.31" ts_lastsave="1527429823.07" unique_id="31">
+			<rich_text>The goal of the game is to colonize this new world. This is done via exploring, mapping out and constructing settlements throughout the land. 
+
+In addition to recording the layout and contents of the continent, the player will also come across strange new technologies, artifacts and individuals that can be sent back home in addition to the recorded logs to reap various kinds of benefits.</rich_text>
+		</node>
+	</node>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Example Game" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1527429850.51" ts_lastsave="1527429857.84" unique_id="32">
+		<rich_text>A first expedition is sent out, they arrive at a desert wasteland with a cliff-covered coast.
+
+They note down that the coast is rocky and tall, but neglect to mention the desert landscape.
+
+Further inland they find a village of cannibalistic natives, with a fully functional diplomatic system worshipping a cow god. They find the cow-worshipping strange and note it down for further study.
+
+They send this log back and continue inland, noting the high mountains further south and the secluded caverns to the east. They then succumb without ever having an opportunity to report back their new findings.
+
+The player now creates a new expedition and send them out.
+
+Upon arrival they are greeted with rocky cliffs, guarding a tropical forest from the raging sea.
+
+After a couple days of travel, they arrive at a sprawling city ruled by an ironfisted monarch portraying himself as the son of the God-Cow.
+
+As this new expedition travels south they come across a giant inland lake, and decide to cross it to the east. On their way there they come across the remains of the previous expedition, and recover their log. They find that the noted high mountains contradict their own findings, so they discard those writings, but after continuing they now come across the aforementioned oasis since it is now known by them without them having discovered anything else in its place.
+
+At this time this expedition sends back their notes to be recorded, along with the found notes from the previous group.
+</rich_text>
 	</node>
 </cherrytree>
