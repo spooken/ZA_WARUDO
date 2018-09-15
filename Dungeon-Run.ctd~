@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<cherrytree>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Introduction" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535017901.57" ts_lastsave="1535018111.44" unique_id="1">
+		<rich_text></rich_text>
+	</node>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Characters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535018111.44" ts_lastsave="1535018126.61" unique_id="2">
+		<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Classes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535018115.12" ts_lastsave="1535022107.92" unique_id="3">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Elementalist" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535022107.92" ts_lastsave="1535109283.01" unique_id="17">
+				<rich_text>Elementalists bend the titular elemts to their will in order to overpower their enemies with destructive torrents or safeguard their allies with soothing winds or restorative currents.</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Aeromancer" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535022116.74" ts_lastsave="1535111929.17" unique_id="19">
+					<rich_text>Greater Blessing of Air
+Allows the target to cast spells while moving and the ability to breathe under water.</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Aquamancer" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535022150.29" ts_lastsave="1535112168.48" unique_id="21">
+					<rich_text>Greater Blessing of </rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Pyromancer" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535022113.12" ts_lastsave="1535022116.74" unique_id="18">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Terramancer" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535022122.39" ts_lastsave="1535111982.28" unique_id="20">
+					<rich_text>Greater Blessing of Earth
+Reduces damage taken by direct hits and grants immunity to knock back and knock up effects.</rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Fighter" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535022284.93" ts_lastsave="1535023152.62" unique_id="22">
+				<rich_text>Fighters forsake any finesse of fancy gadgets or otherworldly assistance to rely on brute force and overpowering physical prowess.</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Berserker" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535022454.16" ts_lastsave="1535022460.09" unique_id="23">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Soldier" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535022460.09" ts_lastsave="1535022466.04" unique_id="24">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Knight" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535022466.04" ts_lastsave="1535022466.04" unique_id="25">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Ranger" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535109283.01" ts_lastsave="1535109314.91" unique_id="31">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Beastmaster" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535109295.39" ts_lastsave="1535109302.67" unique_id="32">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Sharpshooter" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535109302.67" ts_lastsave="1535109302.67" unique_id="33">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Mage" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535109314.91" ts_lastsave="1535109320.12" unique_id="34">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Wizard" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535109320.12" ts_lastsave="1535109325.41" unique_id="35">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Sorcerer" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535109325.42" ts_lastsave="1535109325.42" unique_id="36">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Spiritualist" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535023152.62" ts_lastsave="1535057285.39" unique_id="26">
+				<rich_text>Spiritualists call for spower from beings and deities beyond mortal comprehension.</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Priest" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535057323.45" ts_lastsave="1535057326.88" unique_id="27">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Cultist" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535057326.88" ts_lastsave="1535057329.93" unique_id="28">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Paladin" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535057329.93" ts_lastsave="1535057334.7" unique_id="29">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Possessed" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535057334.7" ts_lastsave="1535061015.42" unique_id="30">
+					<rich_text>-
+a/////////////////////////////////////////////////////////////*9-+/
+******************//0/*</rich_text>
+				</node>
+			</node>
+		</node>
+	</node>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Dungeons" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535018126.61" ts_lastsave="1535018134.21" unique_id="4">
+		<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="3-Man" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535018134.21" ts_lastsave="1535018137.56" unique_id="5">
+			<rich_text></rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="5-Man" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535018137.56" ts_lastsave="1535018213.27" unique_id="6">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Elemental Spire" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535018213.27" ts_lastsave="1535021609.55" unique_id="8">
+				<rich_text>A spiraling natural formation featuring four Seals that bind an ancient monstrosity.
+
+Defeating a Seal removes a corresponding set of abilities from the Avatar of Chaos, making the fight easier.
+
+Defeating the Avatar of Chaos without defeating any Seal beforehand reveals the Avatar of Order as an additional boss.</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Bosses" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535018220.51" ts_lastsave="1535110607.07" unique_id="9">
+					<rich_text>All Seals and the Avatar of Chaos are available to battle as soon as the players enters the Elemental Spire.
+
+Defeating a Seal empowers the remaining Seals and weakens the Avatar of Chaos.</rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Tazozai, Seal of Fire" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535019101.03" ts_lastsave="1535111684.31" unique_id="11">
+						<rich_text>The Seal of Fire is a Damage and Healing check. A party has to be able to finish the fight before the increasing damage-over-time becomes too much.
+
+Main Mechanic - Combustion
+Tazozai bruns with an ever-increasing intensity, dealing higher and higher amounts of damage to everyhting within the chamber.</rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Tophaz, Seal of Earth" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535019144.55" ts_lastsave="1535111634.62" unique_id="12">
+						<rich_text>The Seal of Earth requires players to be conservative with their movement to avoid Static Discharge buildup.
+
+Main Mechanic - Static Discharge
+Moving builds up Static Discharge. Once a player or Tophaz reaches 100 stacks a lightning bolt strikes their position, dealing magic damage and stunning them.</rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Tanaang, Seal of Air" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535019230.75" ts_lastsave="1535111688.72" unique_id="13">
+						<rich_text>The Seal of Air demands that players keep track of their surroundings, so that they can quickly seek cover from Slicing Winds.
+
+Main Mechanic - Slicing Winds
+Players have to seek cover from the biting winds, either under water or behind obstacles.</rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Tokatara, Seal of Water" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535019417.24" ts_lastsave="1535110442.94" unique_id="14">
+						<rich_text>Rising Tides
+The water level in the area periodically rises.</rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Avatar of Chaos" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535021468.73" ts_lastsave="1535021473.66" unique_id="15">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Avatar of Order" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535021473.66" ts_lastsave="1535021473.66" unique_id="16">
+						<rich_text></rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Minions" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535018226.55" ts_lastsave="1535018226.55" unique_id="10">
+					<rich_text></rich_text>
+				</node>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="10-Man" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1535018141.65" ts_lastsave="1535018141.65" unique_id="7">
+			<rich_text></rich_text>
+		</node>
+	</node>
+</cherrytree>

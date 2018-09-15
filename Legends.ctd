@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<cherrytree>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Introduction" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536136882.42" ts_lastsave="1536137733.52" unique_id="1">
+		<rich_text></rich_text>
+	</node>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Characters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536137733.52" ts_lastsave="1536137737.51" unique_id="2">
+		<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Types" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536137737.51" ts_lastsave="1536137741.38" unique_id="3">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Deities" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536137982.04" ts_lastsave="1536138956.54" unique_id="7">
+				<rich_text>Deities provide bonuses to Legends of the same faction as them as long as they are Believers.
+
+Players are restricted in what and how many Deities they can worship at a time.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Fighters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536137741.38" ts_lastsave="1536138983.72" unique_id="4">
+				<rich_text>FIghters do just that, fight and battle.</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Hector of Troy" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536138983.72" ts_lastsave="1536167074.25" unique_id="10">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Achilles" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536167074.25" ts_lastsave="1536167074.25" unique_id="11">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Inventions" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536138575.69" ts_lastsave="1536138961.65" unique_id="9">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Leaders" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536137745.23" ts_lastsave="1536138671.59" unique_id="5">
+				<rich_text>Leaders are poor fighters but excel at leading a player's forces to victory.
+
+Most leaders work best alone.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Thinkers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536137831.22" ts_lastsave="1536138371.53" unique_id="6">
+				<rich_text>Thinkers provide bonuses and utility-focused abilities.
+
+Poor fighters or outright incapable of battle.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Warmachines" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536138568.44" ts_lastsave="1536138681.83" unique_id="8">
+				<rich_text>Warmachines are capable of wreaking terrible destruction in battle, but are expensive and cumbersome.</rich_text>
+			</node>
+		</node>
+	</node>
+</cherrytree>

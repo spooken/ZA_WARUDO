@@ -1,0 +1,460 @@
+<?xml version="1.0" ?>
+<cherrytree>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Introduction" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536927991.99" ts_lastsave="1536991835.57" unique_id="1">
+		<rich_text>Caravan is a trading sim set in a fantasy world.
+
+The game is focused on providing an involving market and trading simulation that will let the player create their own stories and goals.</rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Gameplay" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536991367.25" ts_lastsave="1536991369.56" unique_id="115">
+			<rich_text>The game is entirely turn-based, with a turn representing a day.
+
+The player interacts with the world via clicking on icons, reading text and making decisions in how to react to the different prompts presented by the game.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Visual" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536991097.62" ts_lastsave="1536991367.24" unique_id="114">
+			<rich_text>The game is played from a top-down perspective featuring a world map as the main screen.
+
+The map is divided into a grid (hex / square?) that decides movement across the world.
+
+At the bottom of the screen the a visual representing player's caravan is located, with icons for each member, beast of burden and transport. Clicking these at any time brings up a corresponding window with information and inventory.
+
+All events, interactions and information is relayed through popup windows overlaid on the map.</rich_text>
+		</node>
+	</node>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Caravan" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536987758.79" ts_lastsave="1536991872.95" unique_id="70">
+		<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Player Character" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536991872.96" ts_lastsave="1536992185.06" unique_id="122">
+			<rich_text>The player character is a Merchant who has set out to create their own fortune by braving the dangerous world with their own, privately funded, caravan.
+
+The player is represented by a character in the actual caravan, and the death of this character results in a game over. Most events and actions that reuslt in a characters death however will prioritize supporting members of the caravan before affecting the player character.
+
+When the player creates their character, they will have a number of different choices to make, in addition to a Randomize option that creates their character for them.</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Creation" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536992297.63" ts_lastsave="1536992300.28" unique_id="123">
+				<rich_text>Goal
+Equipment
+Wealth</rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Beasts of Burden" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536987784.52" ts_lastsave="1536989930.46" unique_id="71">
+			<rich_text>Beasts of burden are required to transport larger amounts of goods.
+
+They have a number of stats that decide their strengths and weaknesses:
+
+Cost: 
+Speed: 
+Carry Weight: 
+Durability: 
+Intelligence: 
+Diet: 
+
+Herbivore BoBs have a more readily available source of food as they can graze instead of requiring food to be brought along.
+
+Carnivore BoB's are generally more expensive and can carry less, but they can assist in battle much mroe effecively.</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Horse" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536987968.98" ts_lastsave="1536987970.7" unique_id="77">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Ox" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536987970.71" ts_lastsave="1536987974.01" unique_id="78">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Donkey" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536987974.01" ts_lastsave="1536987983.5" unique_id="79">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Slave" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536987983.51" ts_lastsave="1536990471.71" unique_id="80">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Elephant" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536990471.72" ts_lastsave="1536990471.72" unique_id="107">
+				<rich_text></rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Carvan Speed" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536987835.07" ts_lastsave="1536990646.55" unique_id="73">
+			<rich_text>The Caravan always moves at the speed of its slowest component.</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Mounts" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536990646.56" ts_lastsave="1536990648.14" unique_id="112">
+			<rich_text>Mounts can be brought along to increase the overall speed of the caravan and to provide a getaway</rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Upkeep Costs" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536989588.77" ts_lastsave="1536989784.64" unique_id="100">
+			<rich_text>The items a caravan carries are used not only for trade but also to sustain the caravan itself.
+
+The player will need to keep in mind how much food will be consumed over a journey, as well as ensuring they have the materials to perform maintenence on wagons or treat illnesses.</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Food" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536989598.44" ts_lastsave="1536989609.66" unique_id="101">
+				<rich_text>Every day an amount of food will be consumed from the player's wares for each member of the caravan.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Material" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536989604.95" ts_lastsave="1536989757.42" unique_id="102">
+				<rich_text>Performing repairs on the caravan or healing an injury or disease will deduct these from a player's wares.</rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Transports and Packing" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536987819.46" ts_lastsave="1536990927.84" unique_id="72">
+			<rich_text>Transports and containers are needed to carry more than the little wares an individual can carry.
+
+Each container has a inventory grid that decides how much, in volume, can be packed inside it. This is done through “inventory tetris”.
+
+Clicking a container opens up a new window with the grid that can be moved around as the player wants.
+
+Items can be dropped on the ground to make inventory management easier, but anything left on the ground as the player moves the caravan is lost.</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Saddlebags" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536987931.36" ts_lastsave="1536987936.57" unique_id="74">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Carriage" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536987936.57" ts_lastsave="1536987938.62" unique_id="75">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Wagon" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536987938.63" ts_lastsave="1536987938.63" unique_id="76">
+				<rich_text></rich_text>
+			</node>
+		</node>
+	</node>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Events, Quests and Requests" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536988162.93" ts_lastsave="1536988166.39" unique_id="82">
+		<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Combat" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536990050.26" ts_lastsave="1536991527.63" unique_id="105">
+			<rich_text>Whenever combat is initiated the player gets a prompt to decide how to respond to it, with each option having different outcomes.
+
+Run Away
+Escape
+Hide
+Diplomacy
+Attack
+
+
+Combat is decided by a variety of stats:
+
+Number of combatants on each side.
+Each combatants Combat stat.
+Who got the drop on the other party?
+
+There is no way to directly influence combat once it is initiated, the player simply gets a reulst screen relaying what happened and what the outcome is, together with a list of spoils / loot available to them.</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Run Away" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536990484.51" ts_lastsave="1536990697.06" unique_id="108">
+				<rich_text>When a player decides to Run Away from an enemy, they will abandon their caravan and start again from the closest settlement.
+
+If the caravan includes a BoB or Mount with higher movement than a person, the player will bring that along and whatever it carries.
+
+The rest of the caravan is lost forever.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Escape" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536990697.07" ts_lastsave="1536990738.62" unique_id="113">
+				<rich_text>Escape is similar to Run Away, only the palyer has a chance to save more of the caravan but also has a risk of not getting away themselves.
+
+Each member of the caravan has its movement compare dto the movement of the enemy and every caravan member faster than the fastest enemy gets away, while those slower are lost. This includes the player character and their mount.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Hide" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536990488.29" ts_lastsave="1536990491.19" unique_id="109">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Diplomacy" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536990491.2" ts_lastsave="1536990494.27" unique_id="110">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Attack" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536990494.28" ts_lastsave="1536990494.28" unique_id="111">
+				<rich_text></rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Events" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536988166.39" ts_lastsave="1536990050.26" unique_id="83">
+			<rich_text>Events have a chance of happening every time the player moves a tile.
+
+Some are more common while travelling on a road, encounters for example, while some are more common off-road, like accidents.</rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Accidents" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536988190.12" ts_lastsave="1536988193.47" unique_id="86">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Encounters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536988193.48" ts_lastsave="1536989069.69" unique_id="87">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Ambush" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536989069.69" ts_lastsave="1536989096.56" unique_id="93">
+					<rich_text></rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Animal Ambush" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536989074.03" ts_lastsave="1536989076.93" unique_id="94">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Bandits" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536989076.93" ts_lastsave="1536989081.21" unique_id="95">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Mercenaries" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536989081.22" ts_lastsave="1536989081.22" unique_id="96">
+						<rich_text></rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Travelling Merchant" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536989096.57" ts_lastsave="1536989096.57" unique_id="97">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Injuries" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536988201.52" ts_lastsave="1536988204.96" unique_id="88">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Diseases" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536988204.96" ts_lastsave="1536988218.38" unique_id="89">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Revalations" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536988218.38" ts_lastsave="1536988218.38" unique_id="90">
+				<rich_text></rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Requests" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536988177.88" ts_lastsave="1536988180.11" unique_id="85">
+			<rich_text></rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Quests" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536988171.04" ts_lastsave="1536988177.88" unique_id="84">
+			<rich_text></rich_text>
+		</node>
+	</node>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Resources" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536927997.18" ts_lastsave="1536929630.03" unique_id="2">
+		<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Raw Resources" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536928005.42" ts_lastsave="1536928812.56" unique_id="3">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Greens" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929243.83" ts_lastsave="1536989692.05" unique_id="19">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Herbs" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536989692.05" ts_lastsave="1536989697.1" unique_id="104">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Hides and Leathers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536987316.47" ts_lastsave="1536987316.47" unique_id="69">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Ingredients" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536928812.56" ts_lastsave="1536929317.54" unique_id="16">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Meat" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929238.28" ts_lastsave="1536929311.72" unique_id="18">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Ores" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929256.36" ts_lastsave="1536991597.01" unique_id="21">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Scraps" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536991597.02" ts_lastsave="1536991598.59" unique_id="118">
+				<rich_text>Scraps are obtained as a result of things like events and combat and is worth little but can be utilized by certain characters to perform repairs and similar.</rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Clothing Scraps" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536991664.06" ts_lastsave="1536991670.59" unique_id="119">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Metal Scraps" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536991670.6" ts_lastsave="1536991704.58" unique_id="120">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Wooden Scraps" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536991704.59" ts_lastsave="1536991704.59" unique_id="121">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Seeds" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929251.72" ts_lastsave="1536929319.7" unique_id="20">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Wood" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929273.24" ts_lastsave="1536987396.27" unique_id="22">
+				<rich_text></rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Goods and Wares" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536928015.63" ts_lastsave="1536929297.6" unique_id="4">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Clothing" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536991545.89" ts_lastsave="1536991548.45" unique_id="116">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Food" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929232.67" ts_lastsave="1536991545.89" unique_id="17">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Luxury" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536928731.57" ts_lastsave="1536928797.01" unique_id="15">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Materials" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929297.6" ts_lastsave="1536929306.66" unique_id="23">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Medication" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536989677.24" ts_lastsave="1536989746.52" unique_id="103">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Tools" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536928727.14" ts_lastsave="1536991558.36" unique_id="14">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Weapons and Armor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536991558.37" ts_lastsave="1536991558.37" unique_id="117">
+				<rich_text></rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Monetary" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536928027.44" ts_lastsave="1536929347.53" unique_id="5">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Coin" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929347.53" ts_lastsave="1536929364.49" unique_id="24">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Copper" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929364.49" ts_lastsave="1536929366.69" unique_id="26">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Silver" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929366.69" ts_lastsave="1536929368.59" unique_id="27">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Gold" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929368.59" ts_lastsave="1536929372.61" unique_id="28">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Jewels" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929354.2" ts_lastsave="1536929354.2" unique_id="25">
+				<rich_text></rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Creatures" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536928574.17" ts_lastsave="1536929610.52" unique_id="6">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Animals" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929610.52" ts_lastsave="1536929613.33" unique_id="41">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Beasts" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929613.33" ts_lastsave="1536929615.66" unique_id="42">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Monsters" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929615.66" ts_lastsave="1536929615.66" unique_id="43">
+				<rich_text></rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Individuals" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536928706.92" ts_lastsave="1536929386.08" unique_id="13">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Adventurers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536938224.25" ts_lastsave="1536988826.88" unique_id="65">
+				<rich_text>Adventurers are the most varied characters encountered.
+
+They have their own goals and values, and are generally stronger fighters than regular mercenaries or guards.
+
+Usually they can be hired by the player as guards for a higher fee than other protection, but sometimes they might offer to join if you are going the same way as them.
+
+Usually they can be trusted, but there are some adventurers that won't hesitate to rob the player if the opportunity presents itself. This can be averted by having other protection to keep an eye out.</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Caravan Members" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929507.06" ts_lastsave="1536938224.25" unique_id="38">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Bard" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929538.76" ts_lastsave="1536989322.99" unique_id="39">
+					<rich_text>Bards spin tales and songs out of events the player go through, generating these resources on the fly.
+
+</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Doctor" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536938208.62" ts_lastsave="1536990308.99" unique_id="62">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Diplomat" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536990309.0" ts_lastsave="1536990309.0" unique_id="106">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Healer" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536938210.63" ts_lastsave="1536989113.95" unique_id="63">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Merchant" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536989113.96" ts_lastsave="1536989126.72" unique_id="98">
+					<rich_text>The player is always guaranteed to have at least one merchant in their caravan, as that is their own character.
+
+The number of merchants a player has increases their odds of finding better deals in towns and markets.
+
+</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Missionary" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536938213.59" ts_lastsave="1536989249.08" unique_id="64">
+					<rich_text>Missionaries are looking to improve the lives of those who are worse off than them in the world.
+
+They provide bonuses when interacting with smaller are poorer communities.
+
+Refuses to travel with slaves or slave handlers.</rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Philosopher" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536938630.63" ts_lastsave="1536989242.96" unique_id="66">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Priest" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536989242.96" ts_lastsave="1536989242.96" unique_id="99">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Hunter" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536938643.3" ts_lastsave="1536938645.59" unique_id="32">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Scout" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536938645.59" ts_lastsave="1536988116.38" unique_id="40">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Slave Handler" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536988116.39" ts_lastsave="1536988116.39" unique_id="81">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Escorts" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929395.05" ts_lastsave="1536929479.08" unique_id="30">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Guard" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929479.08" ts_lastsave="1536929545.44" unique_id="36">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Mercenary" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929485.47" ts_lastsave="1536929551.38" unique_id="37">
+					<rich_text></rich_text>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Slaves" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929386.08" ts_lastsave="1536929514.32" unique_id="29">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Workers" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929412.55" ts_lastsave="1536929529.74" unique_id="31">
+				<rich_text></rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Verbal" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536928580.1" ts_lastsave="1536928586.93" unique_id="7">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Stories" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536928586.93" ts_lastsave="1536928589.91" unique_id="8">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Tales" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536928589.91" ts_lastsave="1536928592.44" unique_id="9">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Songs" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536928592.44" ts_lastsave="1536928595.47" unique_id="10">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Rumors" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536928595.47" ts_lastsave="1536928598.36" unique_id="11">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Information" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536928598.36" ts_lastsave="1536928598.36" unique_id="12">
+				<rich_text></rich_text>
+			</node>
+		</node>
+	</node>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="World" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929630.03" ts_lastsave="1536929638.02" unique_id="44">
+		<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Biomes" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929638.02" ts_lastsave="1536929662.16" unique_id="45">
+			<rich_text></rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Locations" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929662.16" ts_lastsave="1536929675.24" unique_id="48">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Populated" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929675.25" ts_lastsave="1536929820.15" unique_id="49">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Settlements" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929820.15" ts_lastsave="1536939331.65" unique_id="61">
+					<rich_text></rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Hamlet" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929678.38" ts_lastsave="1536929828.8" unique_id="50">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Village" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929715.1" ts_lastsave="1536929830.66" unique_id="56">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="City" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929680.88" ts_lastsave="1536929832.5" unique_id="51">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Town" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929689.99" ts_lastsave="1536929834.17" unique_id="53">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Garrison" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929699.13" ts_lastsave="1536929835.61" unique_id="54">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Castle" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929701.05" ts_lastsave="1536929839.32" unique_id="55">
+						<rich_text></rich_text>
+					</node>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Encampments" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536939331.65" ts_lastsave="1536939331.65" unique_id="33">
+					<rich_text></rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Farm" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929682.98" ts_lastsave="1536939335.15" unique_id="52">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Cabin" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929738.62" ts_lastsave="1536939337.1" unique_id="57">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Camp" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929765.34" ts_lastsave="1536939355.57" unique_id="60">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Gypsy Village" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536939355.57" ts_lastsave="1536939355.57" unique_id="34">
+						<rich_text></rich_text>
+					</node>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Ruins" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929747.26" ts_lastsave="1536929757.76" unique_id="58">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Point of Interest" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929757.76" ts_lastsave="1536988246.45" unique_id="59">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Special Locations" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536988246.45" ts_lastsave="1536988249.38" unique_id="91">
+				<rich_text>Special Locations are fixed places where the player can play out a self-contained story or event.
+
+More detailed and specifically crafted than random encounters, they will introduce specific characters, events, locations and similar.</rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Seasons" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929646.16" ts_lastsave="1536975025.08" unique_id="47">
+			<rich_text></rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Regions" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536975025.08" ts_lastsave="1536975241.01" unique_id="35">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Common Lands" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536988394.02" ts_lastsave="1536988526.65" unique_id="92">
+				<rich_text>The common lands are the most normal and mundane locations of the world.
+
+Locations, events and characters that inhabit the common lands are relatively normal to a medieval fantasy setting located in a largely peaceful area of the world.
+
+Here the focus of gameplay lies on finding the best trade routes and nothing too crazy will occur.
+
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Border Lands" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536975545.86" ts_lastsave="1536988539.74" unique_id="68">
+				<rich_text>The border lands are the “wild west” of the world.
+
+Bandits, adventurers and similar are commonplace.
+
+</rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Odd Lands" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536975241.01" ts_lastsave="1536988343.49" unique_id="67">
+				<rich_text></rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Weather" prog_lang="custom-colors" readonly="False" tags="" ts_creation="1536929642.53" ts_lastsave="1536929650.09" unique_id="46">
+			<rich_text></rich_text>
+		</node>
+	</node>
+</cherrytree>
